@@ -1,48 +1,34 @@
-# Document Structure
-
+# document.py
 from langchain_core.documents import Document
-
-doc = Document(
-    page_content =" thsi is the main text content I am using to create RAG",
-    metadata = {
-        "source":"example.txt",
-        "pages": 1,
-        "author": "Tripti Sharma",
-        "date_created": "2025-06-01"
-    }
-)
-
-# print(doc)
-
-# Create a simple txt file
-
-import os
-
-# Create folder relative to the script location
-folder_path = os.path.join(os.path.dirname(__file__), "data", "pdf")
-os.makedirs(folder_path, exist_ok=True)
-print("Folder created at:", folder_path)
-
-### Directory Loader
-from langchain_community.document_loaders import DirectoryLoader
-from langchain_community.document_loaders import PyPDFLoader, PyMuPDFLoader
-
-## load all the text files from the directory
-dir_loader=DirectoryLoader(
-    folder_path,
-    glob="**/*.pdf", ## Pattern to match files  
-    loader_cls= PyMuPDFLoader, ##loader class to use
-    show_progress=False
-
-)
-
-pdf_documents=dir_loader.load()
-# print(pdf_documents)
-
-# Embedding and Vector Store
-
+from langchain_community.document_loaders import PyMuPDFLoader
+from sentence_transformers import SentenceTransformer
 import numpy as np
-import chromadb 
-import uuid
 
+# -------------------------------
+# 1. Load your PDF
+# -------------------------------
+pdf_path = "data/pdf/test.pdf"  # replace with your actual PDF filename
+loader = PyMuPDFLoader(pdf_path)
+docs = loader.load()  # list of Document objects
+print(f"Loaded {len(docs)} pages from PDF.")
 
+# -------------------------------
+# 2. Load embedding model
+# -------------------------------
+# CPU-safe, minimal
+model_name = "all-MiniLM-L6-v2"
+print(f"Loading embedding model '{model_name}' (first run may download the model)...")
+model = SentenceTransformer(model_name)
+print(f"Model loaded. Embedding dimension: {model.get_sentence_embedding_dimension()}")
+
+# -------------------------------
+# 3. Embed documents
+# -------------------------------
+embeddings = []
+for i, doc in enumerate(docs, start=1):
+    # convert_to_tensor=False is CPU-safe and faster for small number of docs
+    embedding = model.encode(doc.page_content, convert_to_tensor=False)
+    embeddings.append(embedding)
+    print(f"Page {i} embedding shape: {embedding.shape}")
+
+print(f"Generated embeddings for {len(embeddings)} pages.")

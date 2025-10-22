@@ -1,5 +1,6 @@
-# agentic_rag_langgraph.py
-
+import numpy as np
+from sklearn.decomposition import PCA
+import matplotlib.pyplot as plt
 import os
 from typing import TypedDict, List
 from dotenv import load_dotenv
@@ -117,6 +118,37 @@ workflow.add_edge("generate", END)
 # Compile the graph
 app = workflow.compile()
 
+#-------------------------------
+# 9. Visualization of embeddings 
+#-------------------------------
+def plot_embeddings(query: str, docs: List[Document], embeddings_model):
+    # Get embeddings
+    doc_vectors = [embeddings_model.embed_query(doc.page_content) for doc in docs]
+    query_vector = embeddings_model.embed_query(query)
+    
+    all_vectors = np.array(doc_vectors + [query_vector])
+    
+    # Reduce dimensions to 2D for plotting
+    pca = PCA(n_components=2)
+    reduced = pca.fit_transform(all_vectors)
+    
+    # Plot
+    plt.figure(figsize=(6,6))
+    plt.scatter(reduced[:-1, 0], reduced[:-1, 1], label="Docs", marker='o')
+    plt.scatter(reduced[-1, 0], reduced[-1, 1], label="Query", marker='x', color='red')
+    
+    # label with numbers for each document
+    for i, doc in enumerate(docs):
+        plt.text(reduced[i,0], reduced[i,1], f"D{i+1}", fontsize=9)
+    
+    # label with numbers for each query 
+    plt.text(reduced[-1,0], reduced[-1,1], "Q", fontsize=12, color='red')
+    plt.xlabel("PCA Component 1")
+
+    plt.title("Query vs Document Embeddings (PCA 2D)")
+    plt.legend()
+    plt.show()
+
 
 # ---------------------------------------------------------------------
 # 7. Helper function to run the agent
@@ -130,6 +162,10 @@ def ask_question(question: str):
         "needs_retrieval": False
     }
     result = app.invoke(initial_state)
+    
+    if result["documents"]:
+        plot_embeddings(question, result["documents"], embeddings)
+
     return result
 
 
@@ -144,3 +180,4 @@ if __name__ == "__main__":
     q2 = "When is langchain used?"
     r2 = ask_question(q2)
     print(f"Q: {q2}\nA: {r2['answer']}\nRetrieved docs: {len(r2['documents'])}\n")
+

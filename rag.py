@@ -11,7 +11,7 @@ from dotenv import load_dotenv
 # -------------------------------
 
 load_dotenv()
-openai.api_key = os.environ.get("OPENAI_API_KEY")  # safely from env
+openai.api_key = os.environ.get("OPENAI_API_KEY") 
 
 # -------------------------------
 # 2. Load PDF and chunk

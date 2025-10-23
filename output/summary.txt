@@ -1,0 +1,9 @@
+COMPARISON SUMMARY
+==================================================
+
+Total Sections: 1256
+Unchanged: 0
+Modified: 3
+Removed or New: 858
+New in V2: 395
+Average Similarity: 0.573

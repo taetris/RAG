@@ -20,8 +20,8 @@ DEVICE = "cpu"  # Change to "cuda" if GPU available
 BATCH_SIZE = 32  # For embedding generation
 
 # Text splitting configuration
-CHUNK_SIZE = 500
-CHUNK_OVERLAP = 50
+CHUNK_SIZE = 1500
+CHUNK_OVERLAP = 150
 
 # Similarity thresholds (tunable based on your needs)
 THRESHOLD_UNCHANGED = 0.95

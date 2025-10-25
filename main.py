@@ -10,7 +10,7 @@ from pdf_extractor import PDFExtractor
 from embedder import EmbeddingGenerator
 from comparator import DocumentComparator
 from reporter import ReportGenerator
-
+from interpreter import ChangeInterpreter
 
 def setup_logging():
     """Configure logging."""
@@ -115,7 +115,17 @@ def main():
             chunks_v1, chunks_v2, embeddings_v1, embeddings_v2
         )
         
-        # Step 4: Generate reports
+        # Step 4: Interpret changes using LLM
+        interpreter = ChangeInterpreter()
+
+        for section in results:
+            result = interpreter.interpret_change(
+                section["v1_snippet"], section["v2_snippet"], section["similarity"]
+            )
+            section["change_type"] = result["change_type"]
+            section["summary"] = result["summary"]
+
+        # Step 5: Generate reports
         logger.info("Generating reports...")
         report_paths = reporter.generate_all_reports(results, stats)
         

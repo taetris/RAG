@@ -5,11 +5,11 @@ import logging
 import sys
 from pathlib import Path
 
-import config
-from pdf_extractor import PDFExtractor
-from embedder import EmbeddingGenerator
-from comparator import DocumentComparator
-from reporter import ReportGenerator
+import modules.config as config
+from modules.pdf_extractor import PDFExtractor
+from modules.embedder import EmbeddingGenerator
+from modules.comparator import DocumentComparator
+from modules.reporter import ReportGenerator
 
 
 def setup_logging():

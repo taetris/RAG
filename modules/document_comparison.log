@@ -1,0 +1,33 @@
+2025-10-25 21:51:49,000 - __main__ - INFO - Starting document comparison pipeline
+2025-10-25 21:51:49,001 - __main__ - INFO - Validating input files...
+2025-10-25 21:51:49,001 - __main__ - ERROR - File error: Version 1 PDF not found: data\version1.pdf
+Please place 'version1.pdf' in the 'data' folder.
+2025-10-25 21:52:25,408 - __main__ - INFO - Starting document comparison pipeline
+2025-10-25 21:52:25,409 - __main__ - INFO - Validating input files...
+2025-10-25 21:52:25,409 - __main__ - ERROR - File error: Version 1 PDF not found: \data\version1.pdf
+Please place 'version1.pdf' in the '/data' folder.
+2025-10-25 21:54:18,974 - __main__ - INFO - Starting document comparison pipeline
+2025-10-25 21:54:18,975 - __main__ - INFO - Validating input files...
+2025-10-25 21:54:18,976 - __main__ - INFO - Initializing components...
+2025-10-25 21:54:18,976 - embedder - INFO - Loading embedding model: all-MiniLM-L6-v2
+2025-10-25 21:54:18,981 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-10-25 21:54:25,181 - embedder - INFO - Model loaded successfully
+2025-10-25 21:54:25,181 - __main__ - INFO - Processing version1.pdf...
+2025-10-25 21:54:26,781 - pdf_extractor - INFO - Extracted 366631 characters from D:\projects\RAG\data\version1.pdf
+2025-10-25 21:54:26,790 - pdf_extractor - INFO - Split text into 861 chunks
+2025-10-25 21:54:26,790 - __main__ - INFO - Processing version2.pdf...
+2025-10-25 21:54:27,597 - pdf_extractor - INFO - Extracted 208125 characters from D:\projects\RAG\data\version2.pdf
+2025-10-25 21:54:27,601 - pdf_extractor - INFO - Split text into 483 chunks
+2025-10-25 21:54:27,601 - __main__ - INFO - Version 1: 861 chunks
+2025-10-25 21:54:27,601 - __main__ - INFO - Version 2: 483 chunks
+2025-10-25 21:54:27,601 - __main__ - INFO - Generating embeddings for Version 1...
+2025-10-25 21:54:27,627 - embedder - INFO - Loaded embeddings from cache: D:\projects\RAG\cache\all-MiniLM-L6-v2_bdbec42c8379e54bf954ec35b3f7bed1.pkl
+2025-10-25 21:54:27,627 - __main__ - INFO - Generating embeddings for Version 2...
+2025-10-25 21:54:27,642 - embedder - INFO - Loaded embeddings from cache: D:\projects\RAG\cache\all-MiniLM-L6-v2_7aa106d3373c95f531687c1a6ed5e24a.pkl
+2025-10-25 21:54:27,642 - __main__ - INFO - Comparing documents...
+2025-10-25 21:54:27,643 - comparator - INFO - Starting bidirectional comparison...
+2025-10-25 21:54:27,815 - comparator - INFO - Comparison complete
+2025-10-25 21:54:28,131 - interpreter - INFO - Using OpenAI model: gpt-4o-mini
+2025-10-25 21:54:30,858 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-25 21:54:35,471 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-25 21:54:38,505 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"

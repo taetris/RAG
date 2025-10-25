@@ -3,10 +3,15 @@ Configuration settings for document comparison.
 """
 import os
 
+from anyio import Path
+
+# Base folder is the parent of this file
+BASE_DIR = Path(__file__).parent.parent
+
 # Paths
-DATA_FOLDER = "data"
-OUTPUT_FOLDER = "output"
-CACHE_FOLDER = "cache"
+DATA_FOLDER = BASE_DIR / "data"
+OUTPUT_FOLDER = BASE_DIR / "output"
+CACHE_FOLDER = BASE_DIR / "cache"
 
 # File names
 VERSION1_FILE = "version1.pdf"

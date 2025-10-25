@@ -7,6 +7,8 @@ import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 from difflib import SequenceMatcher
 
+from structure_parser import StructuralElement
+
 logger = logging.getLogger(__name__)
 
 
@@ -183,3 +185,83 @@ class DocumentComparator:
             'avg_similarity': np.mean([r['similarity'] for r in results if r['similarity'] > 0])
         }
         return stats
+    
+    def compare_structural(
+        self,
+        elements_v1: List[StructuralElement],
+        elements_v2: List[StructuralElement],
+        embeddings_v1: np.ndarray,
+        embeddings_v2: np.ndarray
+    ) -> Tuple[List[Dict], Dict]:
+        """
+        Compare documents using structural alignment.
+        
+        First tries to match by number (Article 5 -> Article 5),
+        then falls back to semantic similarity.
+        """
+        results = []
+        matched_v2 = set()
+        
+        # Build lookup for v2 elements by number
+        v2_by_number = {elem.number: (i, elem) for i, elem in enumerate(elements_v2)}
+        
+        for i, elem_v1 in enumerate(elements_v1):
+            # Try exact structural match first
+            if elem_v1.number in v2_by_number:
+                j, elem_v2 = v2_by_number[elem_v1.number]
+                matched_v2.add(j)
+                
+                # Compare semantically even for matched structure
+                similarity = float(cosine_similarity(
+                    embeddings_v1[i:i+1], 
+                    embeddings_v2[j:j+1]
+                )[0][0])
+                
+                results.append({
+                    'v1_element': elem_v1,
+                    'v2_element': elem_v2,
+                    'match_type': 'structural',
+                    'similarity': similarity,
+                    'status': self._classify_change(similarity)
+                })
+            else:
+                # No structural match - find semantic match
+                similarities = cosine_similarity(
+                    embeddings_v1[i:i+1], 
+                    embeddings_v2
+                )[0]
+                
+                best_idx = int(similarities.argmax())
+                best_score = float(similarities[best_idx])
+                
+                if best_score > self.threshold_modified:
+                    matched_v2.add(best_idx)
+                    results.append({
+                        'v1_element': elem_v1,
+                        'v2_element': elements_v2[best_idx],
+                        'match_type': 'semantic',
+                        'similarity': best_score,
+                        'status': 'Renumbered/Moved'
+                    })
+                else:
+                    results.append({
+                        'v1_element': elem_v1,
+                        'v2_element': None,
+                        'match_type': 'none',
+                        'similarity': 0.0,
+                        'status': 'Removed'
+                    })
+        
+        # Find new elements in v2
+        for j, elem_v2 in enumerate(elements_v2):
+            if j not in matched_v2:
+                results.append({
+                    'v1_element': None,
+                    'v2_element': elem_v2,
+                    'match_type': 'none',
+                    'similarity': 0.0,
+                    'status': 'New'
+                })
+        
+        stats = self._calculate_structural_stats(results)
+        return results, stats

@@ -11,6 +11,7 @@ from embedder import EmbeddingGenerator
 from comparator import DocumentComparator
 from reporter import ReportGenerator
 from interpreter import ChangeInterpreter
+from structure_parser import StructureParser
 
 def setup_logging():
     """Configure logging."""
@@ -53,7 +54,7 @@ def validate_files() -> tuple[Path, Path]:
 
 
 def main():
-    """Main execution pipeline."""
+    """Main execution pipeline with structure awareness."""
     setup_logging()
     logger = logging.getLogger(__name__)
     
@@ -69,10 +70,9 @@ def main():
         
         # Initialize components
         logger.info("Initializing components...")
-        extractor = PDFExtractor(
-            chunk_size=config.CHUNK_SIZE,
-            chunk_overlap=config.CHUNK_OVERLAP
-        )
+        extractor = PDFExtractor()  # No chunking params needed now
+        
+        structure_parser = StructureParser()
         
         embedder = EmbeddingGenerator(
             model_name=config.EMBEDDING_MODEL,

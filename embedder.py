@@ -9,6 +9,8 @@ from typing import List, Optional
 import numpy as np
 from langchain_community.embeddings import HuggingFaceEmbeddings
 
+from structure_parser import StructuralElement
+
 logger = logging.getLogger(__name__)
 
 
@@ -148,4 +150,16 @@ class EmbeddingGenerator:
             Numpy array of embeddings
         """
         texts = [chunk[text_key] for chunk in chunks]
+        return self.generate_embeddings(texts)
+
+
+    def generate_for_structural_elements(
+        self, 
+        elements: List[StructuralElement]
+    ) -> np.ndarray:
+        """
+        Generate embeddings for structural elements.
+        Each element is embedded as a complete unit.
+        """
+        texts = [elem.content for elem in elements]
         return self.generate_embeddings(texts)

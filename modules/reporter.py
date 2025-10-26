@@ -1,6 +1,7 @@
 """
 Generate comparison reports in various formats.
 """
+import json
 import logging
 import csv
 from pathlib import Path
@@ -175,6 +176,35 @@ class ReportGenerator:
         reports['csv'] = self.save_csv(results)
         reports['detailed'] = self.save_detailed_report(results, stats)
         reports['summary'] = self.save_summary(stats)
-        
+        reports['interpreted'] = self.save_interpreted_changes(results)
+
         logger.info(f"Generated {len(reports)} reports")
         return reports
+    
+    def save_interpreted_changes(self, results):
+        """Save only interpreted (AI-analyzed) changes into a separate report."""
+        import json
+        from pathlib import Path
+
+        interpreted = [
+            {
+                "v1_snippet": r.get("v1_snippet", ""),
+                "v2_snippet": r.get("v2_snippet", ""),
+                "similarity": r.get("similarity"),
+                "change_type": r.get("change_type", ""),
+                "summary": r.get("summary", "")
+            }
+            for r in results
+            if "change_type" in r and r["change_type"] not in ("No Significant Change", "Error", "Unclear")
+        ]
+
+        if not interpreted:
+            logger.warning("No interpreted changes found to save.")
+            return None
+
+        output_path = Path(self.output_dir) / "interpreted_changes.json"
+        with open(output_path, "w", encoding="utf-8") as f:
+            json.dump(interpreted, f, ensure_ascii=False, indent=2)
+
+        logger.info(f"Saved interpreted changes to {output_path}")
+        return output_path

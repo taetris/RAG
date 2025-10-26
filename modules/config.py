@@ -14,8 +14,8 @@ OUTPUT_FOLDER = BASE_DIR / "output"
 CACHE_FOLDER = BASE_DIR / "cache"
 
 # File names
-VERSION1_FILE = "version1.pdf"
-VERSION2_FILE = "version2.pdf"
+VERSION1_FILE = "v1.pdf"
+VERSION2_FILE = "v2.pdf"
 REPORT_FILE = "comparison_report.csv"
 EMBEDDINGS_CACHE = "embeddings_cache.pkl"
 

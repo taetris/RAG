@@ -87,6 +87,9 @@ def main():
             use_text_similarity=True
         )
         
+                
+        interpreter = ChangeInterpreter()
+
         reporter = ReportGenerator(output_dir=config.OUTPUT_FOLDER)
         
         # Step 1: Extract and chunk PDFs
@@ -115,15 +118,23 @@ def main():
             chunks_v1, chunks_v2, embeddings_v1, embeddings_v2
         )
         
-        # Step 4: Interpret changes using LLM
-        interpreter = ChangeInterpreter()
+        changed_sections = [
+        s for s in results if s["similarity"] < config.THRESHOLD_UNCHANGED
+        ]
 
-        for section in results:
+        for i, section in enumerate(changed_sections[:3], start=1):
             result = interpreter.interpret_change(
                 section["v1_snippet"], section["v2_snippet"], section["similarity"]
             )
             section["change_type"] = result["change_type"]
             section["summary"] = result["summary"]
+
+        # for section in results:
+        #     result = interpreter.interpret_change(
+        #         section["v1_snippet"], section["v2_snippet"], section["similarity"]
+        #     )
+        #     section["change_type"] = result["change_type"]
+        #     section["summary"] = result["summary"]
 
         # Step 5: Generate reports
         logger.info("Generating reports...")

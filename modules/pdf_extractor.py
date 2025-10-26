@@ -3,8 +3,9 @@ PDF text extraction with error handling and structure preservation.
 """
 import logging
 from typing import List, Dict
-from PyPDF2 import PdfReader
+import fitz
 from langchain_text_splitters import RecursiveCharacterTextSplitter
+from config import DATA_FOLDER, VERSION1_FILE
 
 logger = logging.getLogger(__name__)
 
@@ -37,26 +38,28 @@ class PDFExtractor:
             Exception: If PDF is corrupted or unreadable
         """
         try:
-            reader = PdfReader(pdf_path)
-            
-            if len(reader.pages) == 0:
+            doc = fitz.open(pdf_path)
+            if doc.page_count == 0:
                 raise ValueError(f"PDF has no pages: {pdf_path}")
             
             text_parts = []
-            for i, page in enumerate(reader.pages):
+            for i in range(doc.page_count):
                 try:
-                    page_text = page.extract_text()
+                    page = doc.load_page(i)
+                    page_text = page.get_text()
                     if page_text and page_text.strip():
                         text_parts.append(page_text)
                 except Exception as e:
                     logger.warning(f"Failed to extract page {i+1}: {e}")
                     continue
-            
+            print(f"Extracted {len(text_parts)} pages.")
+
             if not text_parts:
                 raise ValueError(f"No text extracted from PDF: {pdf_path}")
             
             full_text = "\n\n".join(text_parts)
-            logger.info(f"Extracted {len(full_text)} characters from {pdf_path}")
+            
+            # logger.info(f"Extracted {len(full_text)} characters from {pdf_path}")
             return full_text
             
         except FileNotFoundError:
@@ -107,3 +110,24 @@ class PDFExtractor:
         """
         text = self.extract_text(pdf_path)
         return self.split_text(text)
+    
+
+if __name__ == "__main__":
+    from pathlib import Path
+
+    extractor = PDFExtractor()
+    sample_pdf = DATA_FOLDER / VERSION1_FILE
+    output_txt = Path("output_text.txt")  # where the text will be saved
+
+    try:
+        full_text = extractor.extract_text(str(sample_pdf))
+
+        # Write extracted text to file
+        with open(output_txt, "w", encoding="utf-8") as f:
+            f.write(full_text)
+
+        print(f"Extracted text saved to: {output_txt.resolve()}")
+        print(f"Total characters: {len(full_text)}")
+
+    except Exception as e:
+        logger.error(f"Failed to process PDF: {e}")

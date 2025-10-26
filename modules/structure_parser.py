@@ -26,20 +26,20 @@ class StructureParser:
     def __init__(self):
         # Common patterns for legal/regulatory documents
         self.patterns = {
-            'article': [
-                r'^Article\s+(\d+)[\.:]\s*(.+?)(?=\n)',
-                r'^ARTICLE\s+([IVXLCDM]+)[\.:]\s*(.+?)(?=\n)',
-                r'^Art\.\s+(\d+)[\.:]\s*(.+?)(?=\n)',
-            ],
-            'section': [
-                r'^Section\s+(\d+(?:\.\d+)?)[\.:]\s*(.+?)(?=\n)',
-                r'^§\s*(\d+(?:\.\d+)?)[\.:]\s*(.+?)(?=\n)',
-            ],
-            'clause': [
-                r'^(\d+\.\d+(?:\.\d+)?)[\.:]\s*(.+?)(?=\n)',
-                r'^\(([a-z0-9]+)\)[\.:]\s*(.+?)(?=\n)',
-            ]
-        }
+                        'article': [
+                            r'^\s*Article\s+(\d+)\s*(.*?)$',
+                            r'^\s*ARTICLE\s+([IVXLCDM]+)\s*(.*?)$',
+                            r'^\s*Art\.\s*(\d+)\s*(.*?)$',
+                        ],
+                        'section': [
+                            r'^\s*Section\s+([\d\.]+)\s*(.*?)$',
+                            r'^\s*§\s*([\d\.]+)\s*(.*?)$',
+                        ],
+                        'clause': [
+                            r'^\s*\(?([a-z0-9\.]+)\)?\s*(.*?)$',
+                        ]
+                    }
+
     
     def parse(self, text: str) -> List[StructuralElement]:
         """
@@ -48,7 +48,8 @@ class StructureParser:
         Returns hierarchical structure with proper nesting.
         """
         elements = []
-        lines = text.split('\n')
+        lines = [line.strip() for line in text.splitlines() if line.strip()]
+
         
         # First pass: identify all structural markers
         for i, line in enumerate(lines):

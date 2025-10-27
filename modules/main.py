@@ -70,7 +70,7 @@ def main():
         
         # Initialize components
         logger.info("Initializing components...")
-        extractor = PDFExtractor()  # No chunking params needed now
+        extractor = PDFExtractor()  
         
         structure_parser = StructureParser()
         
@@ -86,7 +86,6 @@ def main():
             threshold_modified=config.THRESHOLD_MODIFIED,
             use_text_similarity=True
         )
-        
                 
         interpreter = ChangeInterpreter()
 

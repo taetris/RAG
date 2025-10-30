@@ -1,0 +1,1657 @@
+FULL TEXT LENGTH: 204769 characters
+TOTAL CHUNKS: 375
+
+[Article 16] (2),
+(2),...
+--------------------------------------------------------------------------------
+[Article 74] ,
+,...
+--------------------------------------------------------------------------------
+[Article 78] (2)(e),
+(2)(e),...
+--------------------------------------------------------------------------------
+[Article 79] (2)(c),
+(2)(c),...
+--------------------------------------------------------------------------------
+[Article 82] (1)(d),
+(1)(d),...
+--------------------------------------------------------------------------------
+[Article 85] (1),
+(1),...
+--------------------------------------------------------------------------------
+[Article 87] (2)(a) and
+(2)(a) and...
+--------------------------------------------------------------------------------
+[Article 88] (2) thereof,
+Having regard to the proposal from the European Commission, 
+After transmission of the draft legislative act to the national parliaments, 
+Having regard to the opinion of the European Economic and Soc...
+--------------------------------------------------------------------------------
+[Article 28] (2) of Regulation (EC)
+No 45/2001 of the European Parliament and of the Council (12) and delivered an opinion on 16 April 2018 (13). 
+(60)  
+The...
+--------------------------------------------------------------------------------
+[Article 29] Data Protection Working Party provided an opinion on 11 April 2018.
+(61)  
+Both the Member States and eu-LISA should maintain security plans in order to facilitate the implementation of 
+security obligations and should cooperate with each other in order to address sec...
+--------------------------------------------------------------------------------
+[Article 5] of the Treaty on European Union (TEU). In accordance with
+the principle of proportionality, as set out in that Article, this Regulation does not go beyond what is necessary 
+in order to achieve that objective. 
+(65)  
+The remaining amount in the budget earma...
+--------------------------------------------------------------------------------
+[Article 5] (5)(b) of
+Regulation (EU) No 515/2014, to cover the costs of the development of the interoperability components. 
+(66)  
+In order to supplement certain detailed technical aspects of this Regulation, the power t...
+--------------------------------------------------------------------------------
+[Article 290] of the Treaty on the Functioning of the European Union (TFEU) should be delegated
+to the Commission in respect of: 
+—  extending the transitional period for the use of the ESP; 
+—  extending the transitional period for multiple-identity detection carried out by the ETIAS Central Un...
+--------------------------------------------------------------------------------
+[Article 5] (1)(c) of Regulation
+(EU) 2016/679, the processing of personal data must be adequate, relevant and limited to what is necessary in 
+relation to the purposes for which they are processed. For this reason, the interoperabil...
+--------------------------------------------------------------------------------
+[Article 4] of that Protocol,
+decide within a period of six months after the Council has decided on this Regulation whether it will implement 
+it in its national law. 
+(74)  
+Insofar as its provisions relate to SIS as governed by ...
+--------------------------------------------------------------------------------
+[Article 5] (1) of Protocol No 19 on the Schengen acquis integrated into
+the framework of the European Union, annexed to the TEU and to the TFEU and...
+--------------------------------------------------------------------------------
+[Article 8] (2) of Council
+Decision 2000/365/EC (19). Furthermore, insofar as its provisions relate to Eurodac and to ECRIS-TCN, in 
+accordance with...
+--------------------------------------------------------------------------------
+[Article 3] of Protocol No 21 on the position of the United Kingdom and Ireland in respect of the
+area of freedom, security and justice, annexed to the TEU and to the TFEU, the United Kingdom has notified, by 
+letter of 18 May 2018, its wish to take part in the adoption and application of this Reg...
+--------------------------------------------------------------------------------
+[Article 5] (1) of Protocol No 19 on the Schengen acquis integrated into
+the framework of the European Union, annexed to the TEU and to the TFEU, and...
+--------------------------------------------------------------------------------
+[Article 6] (2) of Council
+Decision 2002/192/EC (20). Furthermore, insofar as its provisions relate to Eurodac and to ECRIS-TCN, in 
+accordance with Articles 1 and 2 of Protocol No 21 on the position of the United Kingdom and I...
+--------------------------------------------------------------------------------
+[Article 4] of that Protocol, Ireland is not taking part in the adoption of this Regulation and is not bound by it or
+subject to its application. Since it is not possible, under these circumstances, to ensure that this Regulation is 
+applicable in its entirety to Ireland, as required by...
+--------------------------------------------------------------------------------
+[Article 288] of the TFEU, Ireland is not taking part in the
+adoption of this Regulation and is not bound by it or subject to its application, without prejudice to its rights 
+under Protocols No 19 and No 21. 
+(76)  
+As regards Iceland and Norway, this Regulati...
+--------------------------------------------------------------------------------
+[Article 1] , point G of Council Decision 1999/437/EC (22).
+(77)  
+As regards Switzerland, this Regulation constitutes insofar as it relates to SIS as governed by Regulation 
+(EU) 2018/1862, a development of the provisions of the Schengen acquis within the mea...
+--------------------------------------------------------------------------------
+[Article 1] , point G of Decision 1999/437/EC read in conjunction with
+, point G of Decision 1999/437/EC read in conjunction with...
+--------------------------------------------------------------------------------
+[Article 3] of
+Council Decision 2008/149/JHA (24). 
+(78)  
+As regards Liechtenstein, this Regulation constitutes insofar as it relates to SIS as governed by Regulation 
+(EU) 2018/1862, a development of the provision...
+--------------------------------------------------------------------------------
+[Article 1] , point G of Decision 1999/437/EC read in conjunction with
+, point G of Decision 1999/437/EC read in conjunction with...
+--------------------------------------------------------------------------------
+[Article 3] of Council
+Decision 2011/350/EU (26). 
+(79)  
+This Regulation respects the fundamental rights and observes the principles recognised in particular by the 
+Charter of Fundamental Rights of the European Union and ...
+--------------------------------------------------------------------------------
+[Article 1] Subject matter
+1.
+This Regulation, together with Regulation (EU) 2019/817 of the European Parliament and of the Council (28), 
+establishes a framework to ensure interoperability between the Entry/Exit System (EES), ...
+--------------------------------------------------------------------------------
+[Article 2] Objectives
+1.
+By ensuring interoperability, this Regulation has the following objectives: 
+(a)  to improve the effectiveness and efficiency of border checks at external borders; 
+(b)  to contribute to the preven...
+--------------------------------------------------------------------------------
+[Article 3] Scope
+1.
+This Regulation applies to Eurodac, SIS and ECRIS-TCN. 
+2.
+This Regulation also applies to Europol data to the extent of enabling them to be queried simultaneously with the 
+EU information systems ...
+--------------------------------------------------------------------------------
+[Article 4] Definitions
+For the purposes of this Regulation, the following definitions apply:  
+(1) ‘external borders’ means external borders as defined in point (2) of...
+--------------------------------------------------------------------------------
+[Article 2] of Regulation (EU) 2016/399 of the
+European Parliament and of the Council (29);  
+(2) ‘border checks’ means border checks as defined in point (11) of...
+--------------------------------------------------------------------------------
+[Article 2] of Regulation (EU) 2016/399;
+(3) ‘border authority’ means the border guard assigned in accordance with national law to carry out border checks;  
+(4) ‘supervisory authorities’ means the supervisory authority referred to in...
+--------------------------------------------------------------------------------
+[Article 51] (1) of Regulation (EU) 2016/679
+and the supervisory authority referred to in...
+--------------------------------------------------------------------------------
+[Article 41] (1) of Directive (EU) 2016/680;
+(5) ‘verification’ means the process of comparing sets of data to establish the validity of a claimed identity (one-to-one 
+check);  
+(6) ‘identification’ means the process of determining a person's i...
+--------------------------------------------------------------------------------
+[Article 27] (3)(a) to (e);
+(9) ‘fingerprint data’ means fingerprint images and images of fingerprint latents, which due to their unique character 
+and the reference points contained therein enable accurate and conclusive compar...
+--------------------------------------------------------------------------------
+[Article 18] (2)(a), (b) and (c)
+of Regulation (EU) 2016/794;  
+(17) ‘Interpol databases’ means the Interpol Stolen and Lost Travel Document database (SLTD database) and the Interpol 
+Travel Documents Associated with Notices database...
+--------------------------------------------------------------------------------
+[Article 3] of Directive (EU) 2016/680;
+(20) ‘designated authorities’ means the Member State designated authorities as defined in point (26) of...
+--------------------------------------------------------------------------------
+[Article 3] (1) of
+Regulation (EU) 2017/2226 of the European Parliament and of the Council (30), point (e) of...
+--------------------------------------------------------------------------------
+[Article 2] (1) of Council
+Decision 2008/633/JHA (31), and point (21) of...
+--------------------------------------------------------------------------------
+[Article 3] (1) of Regulation (EU) 2018/1240 of the
+European Parliament and of the Council (32);  
+(21) ‘terrorist offence’ means an offence under national law which corresponds or is equivalent to one of the offences 
+referred to in Directive (EU) 201...
+--------------------------------------------------------------------------------
+[Article 2] (2) of Council Framework Decision 2002/584/JHA (34), if it is punishable under national law by
+a custodial sentence or a detention order for a maximum period of at least three years;  
+(23) ‘Entry/Exit System’ or ‘EES’ means the Entry/Exit System established by Regulation (EU) 2017/2226;  
+(24)...
+--------------------------------------------------------------------------------
+[Article 5] Non-discrimination and fundamental rights
+Processing of personal data for the purposes of this Regulation shall not result in discrimination against persons on any 
+grounds such as gender, race, colour, ethnic or social origin, genetic featur...
+--------------------------------------------------------------------------------
+[Article 6] European search portal
+1.
+A European search portal (ESP)is established for the purposes of facilitating the fast, seamless, efficient, systematic 
+and controlled access of Member State authorities and Union agencies to the ...
+--------------------------------------------------------------------------------
+[Article 7] Use of the European search portal
+1.
+The use of the ESP shall be reserved to the Member State authorities and Union agencies having access, to at least 
+one of the EU information systemsin accordance with the legal instruments governi...
+--------------------------------------------------------------------------------
+[Article 8] Profiles for the users of the European search portal
+1.
+For the purposes of enabling the use of the ESP, eu-LISA shall, in cooperation with Member States, create a profile 
+based on each category of ESP user and on the purposes of the queries, in accord...
+--------------------------------------------------------------------------------
+[Article 70] (2).
+3.
+The profiles referred to in paragraph 1 shall be reviewed regularly by eu-LISA in cooperation with Member States, 
+at least once per year, and if necessary updated....
+--------------------------------------------------------------------------------
+[Article 9] Queries
+1.
+The ESP users shall launch a query by submitting alphanumeric or biometric data to the ESP. Where a query has 
+been launched, the ESP shall query the EES, ETIAS, VIS, SIS, Eurodac, ECRIS-TCN, the C...
+--------------------------------------------------------------------------------
+[Article 38] for the ESP.
+4.
+When a query is launched by an ESP user, the EES, ETIAS, VIS, SIS, Eurodac, ECRIS-TCN, the CIR, the MID, the 
+Europol data and the Interpol databases shall in reply to the query provide the data th...
+--------------------------------------------------------------------------------
+[Article 20] , the reply provided by the ESP shall indicate to which EU information system or
+database the data belong. 
+The ESP shall provide no information regarding data in EU information systems, Europol data and the Interpol databases 
+to which the user has no access under the applicable ...
+--------------------------------------------------------------------------------
+[Article 70] (2).
+(2)....
+--------------------------------------------------------------------------------
+[Article 10] Keeping of logs
+1.
+Without prejudice to Articles 12 and 18 of Regulation (EU) 2018/1862,...
+--------------------------------------------------------------------------------
+[Article 29] of Regulation (EU) 2019/816
+and...
+--------------------------------------------------------------------------------
+[Article 40] of Regulation (EU) 2016/794, eu-LISA shall keep logs of all data processing operations in the ESP. Those
+logs shall include the following: 
+(a)  the Member State or Union agency launching the query and the ESP profile used; 
+(b)  the date and time of the query; 
+(c)  the EU information systems and the Eu...
+--------------------------------------------------------------------------------
+[Article 11] Fall-back procedures in case of technical impossibility to use the European search portal
+1.
+Where it is technically impossible to use the ESP to query one or several EU information systems or the CIR, 
+because of a failure of the ESP, the ESP users shall be notified in an automated manner...
+--------------------------------------------------------------------------------
+[Article 7] (2) and (4) shall not apply and Member States shall access the EU information systems
+or the CIR directly where they are required to do so under Union or national law. 
+4.
+Where it is technically impossible to use the ESP to query one or several EU information systems or the CIR, 
+beca...
+--------------------------------------------------------------------------------
+[Article 12] Shared biometric matching service
+1.
+A shared biometric matching service (shared BMS) storing biometric templates obtained from the biometric data 
+referred to in...
+--------------------------------------------------------------------------------
+[Article 13] , that are stored in the CIR and SIS and enabling querying with biometric data across several EU
+information systems is established for the purposes of supporting the CIR and the MID and the objectives of the EES, 
+VIS, Eurodac, SIS and ECRIS-TCN. 
+L 135/101 
+Official Journal of the European Unio...
+--------------------------------------------------------------------------------
+[Article 13] Storing biometric templates in the shared biometric matching service
+1.
+The shared BMS shall store the biometric templates, which it shall obtain from the following biometric data: 
+(a)  the data referred to in...
+--------------------------------------------------------------------------------
+[Article 20] (3)(w) and (y), excluding data on palm prints, of Regulation (EU) 2018/1862;
+(b)  the data referred to in...
+--------------------------------------------------------------------------------
+[Article 5] (1)(b) and (2) of Regulation (EU) 2019/816.
+The biometric templates shall be stored in the shared BMS in logically separated form according to the EU information 
+system from which the data originate. 
+2.
+For each set of data referred to in par...
+--------------------------------------------------------------------------------
+[Article 37] (2).
+5.
+The Commission shall lay down, by means of an implementing act, the performance requirements and practical 
+arrangements for monitoring the performance of the shared BMS in order to ensure that the...
+--------------------------------------------------------------------------------
+[Article 70] (2).
+(2)....
+--------------------------------------------------------------------------------
+[Article 14] Searching biometric data with the shared biometric matching service
+In order to search the biometric data stored within the CIR and SIS, the CIR and SIS shall use the biometric templates 
+stored in the shared BMS. Queries with biometric data shall take place in accord...
+--------------------------------------------------------------------------------
+[Article 15] Data retention in the shared biometric matching service
+The data referred to in...
+--------------------------------------------------------------------------------
+[Article 13] (1) and (2) shall be stored in the shared BMS only for as long as the corresponding
+biometric data are stored in the CIR or SIS. The data shall be erased from the shared BMS in an automated manner. 
+L 135/102 
+Official Journal of the European Union 
+EN...
+--------------------------------------------------------------------------------
+[Article 16] Keeping of logs
+1.
+Without prejudice to Articles 12 and 18 of Regulation (EU) 2018/1862 and...
+--------------------------------------------------------------------------------
+[Article 29] of Regulation
+(EU) 2019/816, eu-LISA shall keep logs of all data processing operations in the shared BMS. Those logs shall include the 
+following: 
+(a)  the Member State or Union agency launching the query; 
+(b)  t...
+--------------------------------------------------------------------------------
+[Article 17] Common identity repository
+1.
+A common identity repository (CIR), creating an individual file for each person that is registered in the EES, VIS, 
+ETIAS, Eurodac or ECRIS-TCN containing the data referred to in...
+--------------------------------------------------------------------------------
+[Article 18] , is established for the purpose of facilitating
+and assisting in the correct identification of persons registered in the EES, VIS, ETIAS, Eurodac and ECRIS-TCN in 
+accordance with...
+--------------------------------------------------------------------------------
+[Article 20] , of supporting the functioning of the MID in accordance with
+, of supporting the functioning of the MID in accordance with...
+--------------------------------------------------------------------------------
+[Article 21] and of facilitating
+and streamlining access by designated authorities and Europol to the EES, VIS, ETIAS and Eurodac, where necessary for 
+the prevention, detection or investigation of terrorist offences or other serious...
+--------------------------------------------------------------------------------
+[Article 22] .
+2.
+The CIR shall be composed of: 
+(a)  a central infrastructure that shall replace the central systems of respectively the EES, VIS, ETIAS, Eurodac and 
+ECRIS-TCN to the extent that it shall store the...
+--------------------------------------------------------------------------------
+[Article 18] ;
+(b)  a secure communication channel between the CIR, Member States and Union agencies that are entitled to use the 
+CIR in accordance with Union and national law; 
+(c)  a secure communication infrastr...
+--------------------------------------------------------------------------------
+[Article 20] , for the detection of multiple identities pursuant to
+, for the detection of multiple identities pursuant to...
+--------------------------------------------------------------------------------
+[Article 21] or for the purposes of
+preventing, detecting or investigating terrorist offences or other serious criminal offences pursuant to...
+--------------------------------------------------------------------------------
+[Article 22] , the CIR
+users shall be notified by eu-LISA in an automated manner. 
+5.
+eu-LISA, in cooperation with Member States, shall implement an interface control document based on the UMF 
+referred to in...
+--------------------------------------------------------------------------------
+[Article 38] for the CIR.
+L 135/103 
+Official Journal of the European Union 
+EN...
+--------------------------------------------------------------------------------
+[Article 18] The common identity repository data
+1.
+The CIR shall store the following data, logically separated according to the information system from which the 
+data have originated: the data referred to in...
+--------------------------------------------------------------------------------
+[Article 5] (1)(b) and (2) and the following data listed in
+(1)(b) and (2) and the following data listed in...
+--------------------------------------------------------------------------------
+[Article 5] (1)(a) of
+Regulation (EU) 2019/816: surname (family name), first names (given names), date of birth, place of birth (town and 
+country), nationality or nationalities, gender, previous names, if applicable, wher...
+--------------------------------------------------------------------------------
+[Article 37] (2).
+(2)....
+--------------------------------------------------------------------------------
+[Article 19] Adding, amending and deleting data in the common identity repository
+1.
+Where data are added, amended or deleted in Eurodac or ECRIS-TCN, the data referred to in...
+--------------------------------------------------------------------------------
+[Article 18] stored in
+the individual file of the CIR shall be added, amended or deleted accordingly in an automated manner. 
+2.
+Where a white or red link is created in the MID in accordance with...
+--------------------------------------------------------------------------------
+[Article 32] or 33 between the data of two or
+more of the EU information systems constituting the CIR, instead of creating a new individual file, the CIR shall add the 
+new data to the individual file of the linked data....
+--------------------------------------------------------------------------------
+[Article 20] Access to the common identity repository for identification
+1.
+Queries of the CIR shall be carried out by a police authority in accordance with paragraphs 2 and 5 only in the 
+following circumstances: 
+(a)  where a police authority is unable to identify a pers...
+--------------------------------------------------------------------------------
+[Article 18] (1).
+Where the biometric data of the person cannot be used or where the query with that data fails, the query shall be 
+carried out with identity data of the person in combination with travel document data...
+--------------------------------------------------------------------------------
+[Article 2] (1)(b) and (c). They shall designate the competent police authorities and lay down the
+procedures, conditions and criteria of such checks. 
+6.
+Member States wishing to avail themselves of the possibility provided for in paragraph 4 shall adopt national 
+legislative measures laying down ...
+--------------------------------------------------------------------------------
+[Article 21] Access to the common identity repository for the detection of multiple identities
+1.
+Where a query of the CIR results in a yellow link in accordance with...
+--------------------------------------------------------------------------------
+[Article 28] (4), the authority responsible for
+the manual verification of different identities in accordance with...
+--------------------------------------------------------------------------------
+[Article 29] shall have access, solely for the purpose of
+that verification, to the data referred to in...
+--------------------------------------------------------------------------------
+[Article 18] (1) and (2) stored in the CIR connected by a yellow link.
+2.
+Where a query of the CIR results in a red link in accordance with...
+--------------------------------------------------------------------------------
+[Article 32] , the authorities referred to in
+, the authorities referred to in...
+--------------------------------------------------------------------------------
+[Article 26] (2) shall have access, solely for the purposes of combating identity fraud, to the data referred to in
+(2) shall have access, solely for the purposes of combating identity fraud, to the data referred to in...
+--------------------------------------------------------------------------------
+[Article 18] (1) and (2) stored in the CIR connected by a red link.
+(1) and (2) stored in the CIR connected by a red link....
+--------------------------------------------------------------------------------
+[Article 22] Querying the common identity repository for the purposes of preventing, detecting or investi­
+gating terrorist offences or other serious criminal offences 
+1.
+In a specific case, where there are reasonable grounds to believe that consultation of EU information systems will 
+contribute to the p...
+--------------------------------------------------------------------------------
+[Article 18] (2) indicating that
+Eurodac contains matching data. The CIR shall reply in such a way that the security of the data is not compromised. 
+The reply indicating that data on that person are present in Eurodac shall be used ...
+--------------------------------------------------------------------------------
+[Article 23] Data retention in the common identity repository
+1.
+The data referred to in...
+--------------------------------------------------------------------------------
+[Article 18] (1), (2) and (4) shall be deleted from the CIR in an automated manner in
+accordance with the data retention provisions of Regulation (EU) 2019/816. 
+2.
+The individual file shall be stored in the CIR only for as long as the corresponding data are stored in at least one of 
+...
+--------------------------------------------------------------------------------
+[Article 24] Keeping of logs
+1.
+Without prejudice to...
+--------------------------------------------------------------------------------
+[Article 29] of Regulation (EU) 2019/816, eu-LISA shall keep logs of all data processing
+operations in the CIR in accordance with paragraphs 2, 3 and 4 of this Article. 
+2.
+eu-LISA shall keep logs of all data processing operations pursuant to...
+--------------------------------------------------------------------------------
+[Article 20] in the CIR. Those logs shall
+include the following: 
+(a)  the Member State or Union agency launching the query; 
+(b)  the purpose of access of the user querying via the CIR; 
+(c)  the date and time of the query; 
+(d)  the type of...
+--------------------------------------------------------------------------------
+[Article 21] in the CIR. Those logs shall
+include the following: 
+(a)  the Member State or Union agency launching the query; 
+(b)  the purpose of access of the user querying via the CIR; 
+(c)  the date and time of the query; 
+(d)  where a lin...
+--------------------------------------------------------------------------------
+[Article 22] in the CIR. Those logs shall
+include the following: 
+(a)  the date and time of the query; 
+(b)  the data used to launch the query; 
+(c)  the results of the query; 
+(d)  the Member State or Union agency querying the CIR. 
+The logs...
+--------------------------------------------------------------------------------
+[Article 41] of Directive (EU) 2016/680 or by the European Data Protection Supervisor in accordance with
+of Directive (EU) 2016/680 or by the European Data Protection Supervisor in accordance with...
+--------------------------------------------------------------------------------
+[Article 43] of Regulation
+(EU) 2016/794, at intervals not exceeding six months, to verify whether the procedures and conditions set out in...
+--------------------------------------------------------------------------------
+[Article 22] (1) and (2) of this Regulation are fulfilled.
+5.
+Each Member State shall keep logs of queries that its authorities and the staff of those authorities duly authorised 
+to use the CIR make pursuant to Articles 20, 21 and 22. Each Union agency shall...
+--------------------------------------------------------------------------------
+[Article 22] , each Member State shall keep the following logs:
+(a)  the national file reference; 
+(b)  the purpose of access; 
+(c)  in accordance with national rules, the unique user identity of the official who carried out the query and of the 
+official who orde...
+--------------------------------------------------------------------------------
+[Article 22] of this Regulation,
+Europol shall keep logs of the unique user identity of the official who carried out the query and of the official who 
+ordered the query. 
+7.
+The logs referred to in paragraphs 2 to 6 may be used only...
+--------------------------------------------------------------------------------
+[Article 25] Multiple-identity detector
+1.
+A multiple-identity detector (MID) creating and storing identity confirmation files as referred to in...
+--------------------------------------------------------------------------------
+[Article 34] ,
+containing links between data in the EU information systems included in the CIR and SIS and allowing detection of 
+multiple identities, with the dual purpose of facilitating identity checks and combat...
+--------------------------------------------------------------------------------
+[Article 26] Access to the multiple-identity detector
+1.
+For the purposes of the manual verification of different identities referred to in...
+--------------------------------------------------------------------------------
+[Article 29] , access to the data
+referred to in...
+--------------------------------------------------------------------------------
+[Article 34] stored in the MID shall be granted to:
+(a)  the SIRENE Bureau of the Member State creating or updating an alert in accordance with Regulation 
+(EU) 2018/1862; 
+(b)  the central authorities of the convicting Member State when recording or m...
+--------------------------------------------------------------------------------
+[Article 5] or 9 of Regulation (EU) 2019/816.
+2.
+Member State authorities and Union agencies having access to at least one EU information system included in the 
+CIR or to SIS shall have access to the data referred to in...
+--------------------------------------------------------------------------------
+[Article 34] (a) and (b) regarding any red links referred to in
+(a) and (b) regarding any red links referred to in...
+--------------------------------------------------------------------------------
+[Article 32] .
+3.
+Member State authorities and Union agencies shall have access to the white links referred to in...
+--------------------------------------------------------------------------------
+[Article 33] where
+they have access to the two EU information systems containing data between which the white link was created. 
+4.
+Member State authorities and Union agencies shall have access to the green links referr...
+--------------------------------------------------------------------------------
+[Article 31] where
+they have access to the two EU information systems containing data between which the green link was created and 
+a query of those information systems has revealed a match with the two sets of linked d...
+--------------------------------------------------------------------------------
+[Article 27] Multiple-identity detection
+1.
+Multiple-identity detection in the CIR and SIS shall be launched where: 
+(a)  an alert on a person is created or updated in SIS in accordance with Chapters VI to IX of Regulation 
+(EU) 2018/1862; 
+...
+--------------------------------------------------------------------------------
+[Article 5] or 9 of Regulation (EU) 2019/816.
+2.
+Where the data contained within an EU information system referred to in paragraph 1 contains biometric data, the 
+CIR and Central SIS shall use the shared BMS in order to perform multiple-identity ...
+--------------------------------------------------------------------------------
+[Article 20] (3) of Regulation (EU) 2018/1862;
+(b)  surname (family name), first names (given names), date of birth, place of birth (town and country), nationality or 
+nationalities and gender as referred to in...
+--------------------------------------------------------------------------------
+[Article 5] (1)(a) of Regulation (EU) 2019/816.
+4.
+In addition to the process referred to in paragraphs 2 and 3, the CIR and Central SIS shall use the ESP to search 
+the data stored in Central SIS and the CIR respectively using travel document data...
+--------------------------------------------------------------------------------
+[Article 28] Results of the multiple-identity detection
+1.
+Where the queries referred to in...
+--------------------------------------------------------------------------------
+[Article 27] (2), (3) and (4) do not report any match, the procedures referred to in
+(2), (3) and (4) do not report any match, the procedures referred to in...
+--------------------------------------------------------------------------------
+[Article 27] (1) shall continue in accordance with the legal instruments governing them.
+2.
+Where the query laid down in...
+--------------------------------------------------------------------------------
+[Article 27] (2), (3) and (4) reports one or several matches, the CIR and, where
+relevant, SIS shall create a link between the data used to launch the query and the data triggering the match. 
+Where several matches are reported, a link shall be created between all data triggering ...
+--------------------------------------------------------------------------------
+[Article 27] (2), (3) and (4) reports one or several matches and the identity data of
+the linked files are the same or similar, a white link shall be created in accordance with...
+--------------------------------------------------------------------------------
+[Article 33] .
+4.
+Where the query referred to in...
+--------------------------------------------------------------------------------
+[Article 27] (2), (3) and (4) reports one or several match(es) and the identity data of
+the linked files cannot be considered to be similar, a yellow link shall be created in accordance with...
+--------------------------------------------------------------------------------
+[Article 30] and the
+procedure referred to in...
+--------------------------------------------------------------------------------
+[Article 29] shall apply.
+5.
+The Commission shall adopt delegated acts in accordance with...
+--------------------------------------------------------------------------------
+[Article 69] laying down the procedures to
+determine the cases in which identity data can be considered to be the same or similar. 
+6.
+The links shall be stored in the identity confirmation file referred to in...
+--------------------------------------------------------------------------------
+[Article 34] .
+7.
+The Commission shall, in cooperation with eu-LISA, lay down the technical rules for creating links between data 
+from different EU information systems, by implementing acts. Those implementing acts...
+--------------------------------------------------------------------------------
+[Article 70] (2).
+L 135/108 
+Official Journal of the European Union 
+EN...
+--------------------------------------------------------------------------------
+[Article 29] Manual verification of different identities and the authorities responsible
+1.
+Without prejudice to paragraph 2, the authority responsible for manual verification of different identities shall be: 
+(a)  the SIRENE Bureau of the Member State for matches that occurred when crea...
+--------------------------------------------------------------------------------
+[Article 5] or 9 of Regulation (EU) 2019/816.
+The MID shall indicate the authority responsible for the manual verification of different identities in the identity 
+confirmation file. 
+2.
+The authority responsible for the manual verification of di...
+--------------------------------------------------------------------------------
+[Article 26] of Regulation
+(EU) 2018/1862; 
+(b)  on missing or vulnerable persons referred to in...
+--------------------------------------------------------------------------------
+[Article 32] of Regulation (EU) 2018/1862;
+(c)  on persons sought to assist with a judicial procedure referred to in...
+--------------------------------------------------------------------------------
+[Article 34] of Regulation (EU) 2018/1862;
+(d)  on persons for discreet checks, inquiry checks or specific checks referred to in...
+--------------------------------------------------------------------------------
+[Article 36] of Regulation
+(EU) 2018/1862. 
+3.
+The authority responsible for the manual verification of different identities shall have access to the linked data 
+contained in the relevant identity confirmation file and to the ...
+--------------------------------------------------------------------------------
+[Article 30] Yellow link
+1.
+Where manual verification of different identities has not yet taken place, a link between data from two or more EU 
+information systems shall be classified as yellow in any of the following cases: ...
+--------------------------------------------------------------------------------
+[Article 29] applies.
+L 135/109 
+Official Journal of the European Union 
+EN...
+--------------------------------------------------------------------------------
+[Article 31] Green link
+1.
+A link between data from two or more EU information systems shall be classified as green where: 
+(a)  the linked data have different biometric data but share the same identity data and the authorit...
+--------------------------------------------------------------------------------
+[Article 32] Red link
+1.
+A link between data from two or more EU information systems shall be classified as red in any of the following 
+cases: 
+(a)  the linked data share the same biometric data but have similar or differ...
+--------------------------------------------------------------------------------
+[Article 34] . Follow-up to a red link shall take place in accordance
+with Union and national law, with any legal consequence for the person concerned being based only on the relevant 
+data on that person. No legal consequence for the person concerned shall derive solel...
+--------------------------------------------------------------------------------
+[Article 19] (2).
+L 135/110 
+Official Journal of the European Union 
+EN     
+
+
+4.
+Without prejudice to the provisions related to the handling of alerts in SIS contained in Regulations 
+(EU) 2018/1860, (EU) 2018/1861 an...
+--------------------------------------------------------------------------------
+[Article 34] (c) of this Regulation, a reference to the authority responsible for the manual
+verification of different identities referred to in...
+--------------------------------------------------------------------------------
+[Article 34] (d) of this Regulation and the website address of the web
+portal established in accordance with...
+--------------------------------------------------------------------------------
+[Article 49] of this Regulation.
+5.
+The information referred to in paragraph 4 shall be provided in writing by means of a standard form by the 
+authority responsible for the manual verification of different identities. The Commission...
+--------------------------------------------------------------------------------
+[Article 70] (2).
+6.
+Where a red link is created, the MID shall notify the authorities responsible for the linked data in an automated 
+manner. 
+7.
+If a Member State authority or Union agency having access to the CIR o...
+--------------------------------------------------------------------------------
+[Article 29] (2), immediately inform the relevant SIRENE
+Bureau of the Member State that created the SIS alert;. 
+(b)  in all other cases, either rectify or erase the link from the MID immediately. 
+If a SIRENE Bureau is contacted pursuant to point (a) of t...
+--------------------------------------------------------------------------------
+[Article 33] White link
+1.
+A link between data from two or more EU information systems shall be classified as white in any of the following 
+cases: 
+(a)  the linked data share the same biometric data and the same or similar ...
+--------------------------------------------------------------------------------
+[Article 19] (2).
+L 135/111 
+Official Journal of the European Union 
+EN     
+
+
+4.
+Without prejudice to the provisions related to the handling of alerts in SIS contained to in Regulations 
+(EU) 2018/1860, (EU) 2018/1861...
+--------------------------------------------------------------------------------
+[Article 34] (c) of this Regulation, a reference to the
+authority responsible for the manual verification of different identities referred to in...
+--------------------------------------------------------------------------------
+[Article 34] (d) of this Regulation and
+the website address of the web portal established in accordance with...
+--------------------------------------------------------------------------------
+[Article 49] of this Regulation.
+5.
+If a Member State authority has evidence to suggest that a white link has been incorrectly recorded in the MID, 
+that a white link is out of date or that data were processed in the MID or the EU in...
+--------------------------------------------------------------------------------
+[Article 70] (2).
+(2)....
+--------------------------------------------------------------------------------
+[Article 34] Identity confirmation file
+The identity confirmation file shall contain the following data: 
+(a)  the links referred to in Articles 30 to 33; 
+(b)  a reference to the EU information systems in which the linked data are held; 
+(...
+--------------------------------------------------------------------------------
+[Article 35] Data retention in the multiple-identity detector
+The identity confirmation files and the data in them, including the links, shall be stored in the MID only for as long as 
+the linked data are stored in two or more EU information systems. They shall ...
+--------------------------------------------------------------------------------
+[Article 36] Keeping of logs
+1.
+eu-LISA shall keep logs of all data processing operations in the MID. Those logs shall include the following: 
+(a)  the Member State launching the query; 
+(b)  the purpose of user's access; 
+(c)  t...
+--------------------------------------------------------------------------------
+[Article 37] Data quality
+1.
+Without prejudice to Member States' responsibilities with regard to the quality of data entered into the systems, 
+eu-LISA shall establish automated data quality control mechanisms and procedures o...
+--------------------------------------------------------------------------------
+[Article 70] (2).
+5.
+One year after the establishment of the automated data quality control mechanisms and procedures, common data 
+quality indicators and the minimum data quality standards, and every year thereafter, ...
+--------------------------------------------------------------------------------
+[Article 38] Universal message format
+1.
+The universal message format (UMF) standard is hereby established. The UMF defines standards for certain content 
+elements of cross-border information exchange between information systems, authorit...
+--------------------------------------------------------------------------------
+[Article 70] (2).
+(2)....
+--------------------------------------------------------------------------------
+[Article 39] Central repository for reporting and statistics
+1.
+A central repository for reporting and statistics (CRRS) is established for the purposes of supporting the objectives 
+of the SIS, Eurodac and ECRIS-TCN, in accordance with the respective legal ins...
+--------------------------------------------------------------------------------
+[Article 74] of Regulation (EU) 2018/1862 and
+of Regulation (EU) 2018/1862 and...
+--------------------------------------------------------------------------------
+[Article 32] of Regulation (EU) 2019/816 logically separated
+by EU information system. Access to the CRRS shall be granted by means of controlled, secured access and specific user 
+profiles, solely for the purpose of reporting and statistics, to the authorities...
+--------------------------------------------------------------------------------
+[Article 74] of Regulation
+(EU) 2018/1862 and...
+--------------------------------------------------------------------------------
+[Article 32] of Regulation (EU) 2019/816.
+3.
+eu-LISA shall render the data anonymous and shall record such anonymised data in the CRRS. The process for 
+rendering the data anonymous shall be automated. 
+The data contained in CRRS shall not al...
+--------------------------------------------------------------------------------
+[Article 69] laying down detailed rules on the
+operation of the CRRS, including specific safeguards for the processing of personal data under paragraphs 2 and 3 of 
+this Article and security rules applicable to the repository. 
+CHAPTER VII 
+Data p...
+--------------------------------------------------------------------------------
+[Article 40] Data controller
+1.
+In relation to the processing of data in the shared BMS, the Member State authorities that are controllers for 
+Eurodac, SIS and ECRIS-TCN respectively, shall be controllers in accordance with poin...
+--------------------------------------------------------------------------------
+[Article 4] of Regulation
+(EU) 2016/679 or point (8) of...
+--------------------------------------------------------------------------------
+[Article 3] of Directive (EU) 2016/680 in relation to the biometric templates obtained
+from the data referred to in...
+--------------------------------------------------------------------------------
+[Article 13] of this Regulation that they enter into the underlying systems and shall have re­
+sponsibility for the processing of the biometric templates in the shared BMS. 
+2.
+In relation to the processing of data in the CIR, the Member State authorities that are controllers for Eurodac and 
+E...
+--------------------------------------------------------------------------------
+[Article 4] of Regulation (EU) 2016/679 or
+point (8) of...
+--------------------------------------------------------------------------------
+[Article 3] of Directive (EU) 2016/680 in relation to data referred to in
+of Directive (EU) 2016/680 in relation to data referred to in...
+--------------------------------------------------------------------------------
+[Article 18] of this Regulation that they
+enter into the underlying systems and shall have responsibility for the processing of those personal data in the CIR. 
+3.
+In relation to the processing of data in the MID: 
+(a)  the European Border an...
+--------------------------------------------------------------------------------
+[Article 3] of Regulation (EU) 2018/1725 in relation to the processing of personal data by the ETIAS Central Unit;
+(b)  the Member State authorities adding or modifying the data in the identity confirmation file shall be controllers in 
+accordance with point (7) of...
+--------------------------------------------------------------------------------
+[Article 4] of Regulation (EU) 2016/679 or point (8) of
+of Regulation (EU) 2016/679 or point (8) of...
+--------------------------------------------------------------------------------
+[Article 3] of Directive
+(EU) 2016/680 and shall have responsibility for the processing of the personal data in the MID. 
+L 135/114 
+Official Journal of the European Union 
+EN     
+
+
+4.
+For the purposes of data protection mon...
+--------------------------------------------------------------------------------
+[Article 44] .
+....
+--------------------------------------------------------------------------------
+[Article 41] Data processor
+In relation to the processing of personal data in the shared BMS, the CIR and the MID, eu-LISA shall be the data 
+processor within the meaning of point (12)(a) of...
+--------------------------------------------------------------------------------
+[Article 3] of Regulation (EU) 2018/1725.
+of Regulation (EU) 2018/1725....
+--------------------------------------------------------------------------------
+[Article 42] Security of processing
+1.
+eu-LISA, the ETIAS Central Unit, Europol and the Member State authorities shall ensure the security of the 
+processing of personal data that takes place pursuant to this Regulation. eu-LISA, the ET...
+--------------------------------------------------------------------------------
+[Article 33] of Regulation (EU) 2018/1725, eu-LISA shall take the necessary measures to
+ensure the security of the interoperability components and their related communication infrastructure. 
+3.
+In particular, eu-LISA shall adopt the necessary measures, including a security plan, a busin...
+--------------------------------------------------------------------------------
+[Article 43] Security incidents
+1.
+Any event that has or may have an impact on the security of the interoperability components and may cause 
+damage to or loss of data stored in them shall be considered to be a security incident, in...
+--------------------------------------------------------------------------------
+[Article 33] of
+Regulation (EU) 2016/679,...
+--------------------------------------------------------------------------------
+[Article 30] of Directive (EU) 2016/680, or both, Member States shall notify the Commission,
+eu-LISA, the competent supervisory authorities and the European Data Protection Supervisor of any security incidents 
+without delay. 
+Without prejudice to Articles 34 and 35 of Regulation (EU) 2018/17...
+--------------------------------------------------------------------------------
+[Article 34] of Regulation (EU) 2016/794,
+the ETIAS Central Unit and Europol shall notify the Commission, eu-LISA and the European Data Protection Supervisor 
+of any security incidents without delay. 
+In the event of a security incident in re...
+--------------------------------------------------------------------------------
+[Article 70] (2).
+(2)....
+--------------------------------------------------------------------------------
+[Article 44] Self-monitoring
+Member States and the relevant Union agencies shall ensure that each authority entitled to access the interoperability 
+components takes the measures necessary to monitor its compliance with this Regu...
+--------------------------------------------------------------------------------
+[Article 40] shall take the necessary measures to monitor the compliance of data
+processing pursuant to this Regulation, including through frequent verification of the logs referred to in Articles 10, 16, 
+24 and 36, and cooperate, where necessary, with the supervisory authorities...
+--------------------------------------------------------------------------------
+[Article 45] Penalties
+Member States shall ensure that any misuse of data, processing of data or exchange of data contrary to this Regulation is 
+punishable in accordance with national law. The penalties provided shall be e...
+--------------------------------------------------------------------------------
+[Article 46] Liability
+1.
+Without prejudice to the right to compensation from, and liability of the controller or processor under Regulation 
+(EU) 2016/679, Directive (EU) 2016/680 and Regulation (EU) 2018/1725: 
+(a)  any p...
+--------------------------------------------------------------------------------
+[Article 47] Right to information
+1.
+The authority collecting the personal data to be stored in the shared BMS, the CIR or the MID shall provide the 
+persons whose data are collected with the information required under Articles 13 and...
+--------------------------------------------------------------------------------
+[Article 48] Right of access to, rectification and erasure of personal data stored in the MID and restriction of
+processing thereof 
+1.
+In order to exercise their rights under Articles 15 to 18 of Regulation (EU) 2016/679, Articles 17 to 20 of 
+Regulation (EU) 2018/1725 and Articles 14, 15 and 16 of Directive (E...
+--------------------------------------------------------------------------------
+[Article 27] and, where relevant,
+and, where relevant,...
+--------------------------------------------------------------------------------
+[Article 29] to determine whether the
+amended data are to be linked. Where the processing does not report any match, that Member State shall erase the data 
+from the identity confirmation file. Where the automated processing reports one o...
+--------------------------------------------------------------------------------
+[Article 49] Web portal
+1.
+A web portal is established for the purpose of facilitating the exercise of the rights of access to, rectification, 
+erasure or restriction of processing of personal data. 
+2.
+The web portal shall ...
+--------------------------------------------------------------------------------
+[Article 32] (4) to receive the contact information of the competent authority of the
+Member State responsible for the manual verification of different identities. 
+3.
+In order to obtain the contact information of the competent authority of the Member State responsible for the 
+manual ...
+--------------------------------------------------------------------------------
+[Article 34] (d). The web portal
+shall use this reference in order to retrieve the contact information of the competent authority of the Member State 
+responsible for the manual verification of different identities. The web portal sh...
+--------------------------------------------------------------------------------
+[Article 34] (c) in order to allow the competent authority of the Member State responsible for the manual
+verification of different identities to identify the data concerned. 
+L 135/118 
+Official Journal of the European Union 
+EN     
+
+
+4.
+Member States shall provide eu-LISA with the contact details of al...
+--------------------------------------------------------------------------------
+[Article 69] laying down detailed rules on the
+operation of the web portal, including the user interface, the languages in which the web portal shall be available and 
+the template e-mail....
+--------------------------------------------------------------------------------
+[Article 50] Communication of personal data to third countries, international organisations and private parties
+Without prejudice to...
+--------------------------------------------------------------------------------
+[Article 31] of Regulation (EC) No 767/2008, Articles 25 and 26 of Regulation (EU) 2016/794,
+of Regulation (EC) No 767/2008, Articles 25 and 26 of Regulation (EU) 2016/794,...
+--------------------------------------------------------------------------------
+[Article 41] of Regulation (EU) 2017/2226,
+of Regulation (EU) 2017/2226,...
+--------------------------------------------------------------------------------
+[Article 65] of Regulation (EU) 2018/1240 and the querying of Interpol
+databases through the ESP in accordance with...
+--------------------------------------------------------------------------------
+[Article 9] (5) of this Regulation which comply with the provisions of
+Chapter V of Regulation (EU) 2018/1725 and Chapter V of Regulation (EU) 2016/679, personal data stored in, 
+processed or accessed by the interoperability components shall not be transferred or made av...
+--------------------------------------------------------------------------------
+[Article 51] Supervision by the supervisory authorities
+1.
+Each Member State shall ensure that the supervisory authorities independently monitor the lawfulness of the 
+processing of personal data under this Regulation by the Member State concerned, includi...
+--------------------------------------------------------------------------------
+[Article 51] (1) of
+Regulation (EU) 2016/679 and shall, in particular, provide it with information on the activities carried out in accordance 
+with their responsibilities under this Regulation. Member States shall grant...
+--------------------------------------------------------------------------------
+[Article 51] (1) of Regulation (EU) 2016/679 access to their logs referred to in Articles 10, 16, 24 and 36 of this
+Regulation, to the justifications referred to in...
+--------------------------------------------------------------------------------
+[Article 22] (2) of this Regulation and allow them to access all their premises
+used for interoperability purposes at all times....
+--------------------------------------------------------------------------------
+[Article 52] Audits by the European Data Protection Supervisor
+The European Data Protection Supervisor shall ensure that an audit of personal data processing operations by eu-LISA, 
+the ETIAS Central Unit and Europol for the purposes of this Regulation is carried...
+--------------------------------------------------------------------------------
+[Article 53] Cooperation between supervisory authorities and the European Data Protection Supervisor
+1.
+The supervisory authorities and the European Data Protection Supervisor shall, each acting within the scope of 
+their respective competences, cooperate actively within the framework of their respec...
+--------------------------------------------------------------------------------
+[Article 62] of Regulation (EU) 2018/1725.
+3.
+The European Data Protection Board shall send a joint report of its activities under this Article to the 
+European Parliament, to the Council, to the Commission, to Europol, to the European Border ...
+--------------------------------------------------------------------------------
+[Article 54] Responsibilities of eu-LISA during the design and development phase
+1.
+eu-LISA shall ensure that the central infrastructures of the interoperability components are operated in accordance 
+with this Regulation. 
+2.
+The interoperability components shall be hosted by eu-...
+--------------------------------------------------------------------------------
+[Article 55] (1).
+3.
+eu-LISA shall be responsible for the development of the interoperability components and for any adaptations 
+required for establishing interoperability between the central systems of the EES, VIS, ...
+--------------------------------------------------------------------------------
+[Article 62] , eu-LISA shall not have access to any of the personal data processed through the ESP,
+the shared BMS, the CIR or the MID. 
+eu-LISA shall define the design of the physical architecture of the interoperability components including their communi­
+cation infrastructures and the technical s...
+--------------------------------------------------------------------------------
+[Article 71] ,
+a member representing eu-LISA appointed by its Executive Director, and one member appointed by the Commission. 
+The members appointed by eu-LISA's Management Board shall be elected only from those Mem...
+--------------------------------------------------------------------------------
+[Article 10] of the eu-LISA Rules of Procedure shall apply mutatis mutandis. eu-LISA shall provide the
+Programme Management Board with a secretariat. 
+The Interoperability Advisory Group referred to in...
+--------------------------------------------------------------------------------
+[Article 71] shall meet regularly until the start of operations of the
+interoperability components. It shall report after each meeting to the Programme Management Board. It shall provide 
+the technical expertise to support the tasks of the Programme Management Board and ...
+--------------------------------------------------------------------------------
+[Article 55] Responsibilities of eu-LISA following the entry into operations
+1.
+Following the entry into operations of each interoperability component, eu-LISA shall be responsible for the 
+technical management of the central infrastructure of the interoperability components, ...
+--------------------------------------------------------------------------------
+[Article 17] of the Staff Regulations of Officials of the European Union, eu-LISA shall apply
+appropriate rules of professional secrecy or other equivalent duties of confidentiality to its staff required to work with 
+data stored in the interoperability components. This obligation shall also a...
+--------------------------------------------------------------------------------
+[Article 62] , eu-LISA shall not have access to any of the personal data processed through the ESP,
+the shared BMS, the CIR and the MID. 
+3.
+eu-LISA shall develop and maintain a mechanism and procedures for carrying out quality checks on the data 
+stored in the shared BMS and the CIR in accordance w...
+--------------------------------------------------------------------------------
+[Article 37] .
+4.
+eu-LISA shall also perform tasks related to providing training on the technical use of the interoperability 
+components. 
+L 135/121 
+Official Journal of the European Union 
+EN...
+--------------------------------------------------------------------------------
+[Article 56] Responsibilities of Member States
+1.
+Each Member State shall be responsible for: 
+(a)  the connection to the communication infrastructure of the ESP and the CIR; 
+(b)  the integration of the existing national systems and infrastructur...
+--------------------------------------------------------------------------------
+[Article 20] (5) and (6) in order to access the CIR for identifi­
+cation purposes; 
+(f)  the manual verification of different identities referred to in...
+--------------------------------------------------------------------------------
+[Article 29] ;
+(g)  compliance with the data quality requirements established under Union law; 
+(h)  compliance with the rules of each EU information system regarding the security and integrity of personal data; 
+(i...
+--------------------------------------------------------------------------------
+[Article 37] (5).
+2.
+Each Member State shall connect their designated authorities to the CIR....
+--------------------------------------------------------------------------------
+[Article 57] Responsibilities of Europol
+1.
+Europol shall ensure processing of the queries of Europol data by the ESP. Europol shall adapt its Querying 
+Europol Systems (QUEST) interface for basic protection level (BPL) data accordingly. 
+2....
+--------------------------------------------------------------------------------
+[Article 58] Responsibilities of the ETIAS Central Unit
+The ETIAS Central Unit shall be responsible for: 
+(a)  the manual verification of different identities in accordance with...
+--------------------------------------------------------------------------------
+[Article 29] ;
+(b)  carrying out multiple-identity detection between the data stored in the EES, VIS, Eurodac and SIS, as referred to in...
+--------------------------------------------------------------------------------
+[Article 65] .
+CHAPTER IX 
+Amendments to other Union instruments...
+--------------------------------------------------------------------------------
+[Article 59] Amendments to Regulation (EU) 2018/1726
+Regulation (EU) 2018/1726 is amended as follows:  
+(1)...
+--------------------------------------------------------------------------------
+[Article 12] is replaced by the following:
+‘...
+--------------------------------------------------------------------------------
+[Article 12] Data quality
+1.
+Without prejudice to Member States' responsibilities with regard to the data entered into the systems under the 
+Agency's operational responsibility, the Agency, closely involving its Advisory Grou...
+--------------------------------------------------------------------------------
+[Article 37] of Regulations (EU) 2019/817 (*)
+and (EU) 2019/818 (**) of the European Parliament and of the Council. 
+L 135/122 
+Official Journal of the European Union 
+EN     
+
+
+2.
+The Agency shall establish a central repository containing only a...
+--------------------------------------------------------------------------------
+[Article 39] of Regulations (EU) 2019/817 and (EU) 2019/818, subject to specific provisions in the
+legal instruments governing the development, establishment, operation and use of large-scale IT systems managed by 
+the Agency.  
+(*) Regulation (EU) 2019/817 of the European Parliament and of the Cou...
+--------------------------------------------------------------------------------
+[Article 19] , paragraph 1 is amended as follows:
+(a)  the following point is inserted: 
+‘(eea)  adopt reports on the state of play of the development of the interoperability components pursuant to...
+--------------------------------------------------------------------------------
+[Article 78] (2) of Regulation (EU) 2019/817 and
+(2) of Regulation (EU) 2019/817 and...
+--------------------------------------------------------------------------------
+[Article 74] (2) of Regulation (EU) 2019/818;’;
+(b)  point (ff) is replaced by the following: 
+‘(ff)  adopt reports on the technical functioning of SIS pursuant to...
+--------------------------------------------------------------------------------
+[Article 60] (7) of Regulation (EU) 2018/1861
+of the European Parliament and of the Council (*) and...
+--------------------------------------------------------------------------------
+[Article 74] (8) of Regulation (EU) 2018/1862 of the
+European Parliament and of the Council (**), of the VIS pursuant to...
+--------------------------------------------------------------------------------
+[Article 50] (3) of Regulation (EC)
+No 767/2008 and...
+--------------------------------------------------------------------------------
+[Article 17] (3) of Decision 2008/633/JHA, of EES pursuant to
+(3) of Decision 2008/633/JHA, of EES pursuant to...
+--------------------------------------------------------------------------------
+[Article 72] (4) of Regulation
+(EU) 2017/2226, of ETIAS pursuant to...
+--------------------------------------------------------------------------------
+[Article 92] (4) of Regulation (EU) 2018/1240, of the ECRIS-TCN and
+of the ECRIS reference implementation pursuant to...
+--------------------------------------------------------------------------------
+[Article 36] (8) of Regulation (EU) 2019/816 of the
+European Parliament and of the Council (***) and of the interoperability components pursuant to...
+--------------------------------------------------------------------------------
+[Article 78] (3) of Regulation (EU) 2019/817 and
+(3) of Regulation (EU) 2019/817 and...
+--------------------------------------------------------------------------------
+[Article 74] (3) of Regulation (EU) 2019/818;
+(*) Regulation (EU) 2018/1861 of the European Parliament and of the Council of 28 November 2018 on the 
+establishment, operation and use of the Schengen Information System (SIS) in the field of border...
+--------------------------------------------------------------------------------
+[Article 56] (2) of Regulation (EU) 2018/1861,
+(2) of Regulation (EU) 2018/1861,...
+--------------------------------------------------------------------------------
+[Article 42] (2) of Regulation (EC) No 767/2008,
+(2) of Regulation (EC) No 767/2008,...
+--------------------------------------------------------------------------------
+[Article 31] (2)
+of Regulation (EU) No 603/2013,...
+--------------------------------------------------------------------------------
+[Article 56] (2) of Regulation (EU) 2017/2226,
+(2) of Regulation (EU) 2017/2226,...
+--------------------------------------------------------------------------------
+[Article 67] of Regulation
+(EU) 2018/1240,...
+--------------------------------------------------------------------------------
+[Article 29] (2) of Regulation (EU) 2019/816 and
+(2) of Regulation (EU) 2019/816 and...
+--------------------------------------------------------------------------------
+[Article 52] of Regulations (EU) 2019/817
+and (EU) 2019/818 and ensure appropriate follow-up of those audits;’; 
+L 135/123 
+Official Journal of the European Union 
+EN     
+
+
+(d)  point (mm) is replaced by the following: 
+‘(mm)  ensure annual ...
+--------------------------------------------------------------------------------
+[Article 41] (8) of Regulation (EU) 2018/1861 and
+(8) of Regulation (EU) 2018/1861 and...
+--------------------------------------------------------------------------------
+[Article 56] (7) of Regulation
+(EU) 2018/1862, together with the list of Offices of the national systems of SIS (N.SIS) and SIRENE 
+Bureaux pursuant to...
+--------------------------------------------------------------------------------
+[Article 7] (3) of Regulation (EU) 2018/1861 and
+(3) of Regulation (EU) 2018/1861 and...
+--------------------------------------------------------------------------------
+[Article 7] (3) of Regulation
+(EU) 2018/1862 respectively as well as the list of competent authorities pursuant to...
+--------------------------------------------------------------------------------
+[Article 65] (2) of
+Regulation (EU) 2017/2226, the list of competent authorities pursuant to...
+--------------------------------------------------------------------------------
+[Article 87] (2) of Regulation
+(EU) 2018/1240, the list of central authorities pursuant to...
+--------------------------------------------------------------------------------
+[Article 34] (2) of Regulation (EU) 2019/816
+and the list of authorities pursuant to...
+--------------------------------------------------------------------------------
+[Article 71] (1) of Regulation (EU) 2019/817 and
+(1) of Regulation (EU) 2019/817 and...
+--------------------------------------------------------------------------------
+[Article 67] (1) of
+Regulation (EU) 2019/818;’;  
+(3) in...
+--------------------------------------------------------------------------------
+[Article 22] , paragraph 4 is replaced by the following:
+‘4.
+Europol and Eurojust may attend the meetings of the Management Board as observers when a question 
+concerning SIS II, in relation to the application of Decision 2007/533/JHA is on the agenda. 
+The...
+--------------------------------------------------------------------------------
+[Article 24] (3), point (p) is replaced by the following:
+‘(p)  without prejudice to...
+--------------------------------------------------------------------------------
+[Article 17] of the Staff Regulations of Officials, establishing confidentiality requirements in
+order to comply with...
+--------------------------------------------------------------------------------
+[Article 17] of Regulation (EC) No 1987/2006,
+of Regulation (EC) No 1987/2006,...
+--------------------------------------------------------------------------------
+[Article 17] of Decision 2007/533/JHA,
+of Decision 2007/533/JHA,...
+--------------------------------------------------------------------------------
+[Article 26] (9) of Regulation (EC) No 767/2008,
+(9) of Regulation (EC) No 767/2008,...
+--------------------------------------------------------------------------------
+[Article 4] (4) of Regulation (EU) No 603/2013,
+(4) of Regulation (EU) No 603/2013,...
+--------------------------------------------------------------------------------
+[Article 37] (4) of
+Regulation (EU) 2017/2226,...
+--------------------------------------------------------------------------------
+[Article 74] (2) of Regulation (EU) 2018/1240,
+(2) of Regulation (EU) 2018/1240,...
+--------------------------------------------------------------------------------
+[Article 11] (16) of Regulation
+(EU) 2019/816 and...
+--------------------------------------------------------------------------------
+[Article 55] (2) of Regulations (EU) 2019/817 and (EU) 2019/818;’;
+(5)...
+--------------------------------------------------------------------------------
+[Article 27] is amended as follows:
+(a)  in paragraph 1, the following point is inserted: 
+‘(da)  Interoperability Advisory Group;’; 
+(b)  paragraph 3 is replaced by the following: 
+‘3.
+Europol, Eurojust and the European Border and Coas...
+--------------------------------------------------------------------------------
+[Article 60] Amendments to Regulation (EU) 2018/1862
+Regulation (EU) 2018/1862 is amended as follows:  
+(1) in...
+--------------------------------------------------------------------------------
+[Article 3] , the following points are added:
+‘(18) ‘ESP’ means the European search portal established by...
+--------------------------------------------------------------------------------
+[Article 6] (1) of Regulation (EU) 2019/818 of the
+European Parliament and of the Council (*);  
+(19) ‘shared BMS’ means the shared biometric matching service established by...
+--------------------------------------------------------------------------------
+[Article 12] (1) of Regulation
+(EU) 2019/818;  
+(20) ‘CIR’ means the common identity repository established by...
+--------------------------------------------------------------------------------
+[Article 17] (1) of Regulation (EU) 2019/818;
+(21) ‘MID’ means the multiple-identity detector established by...
+--------------------------------------------------------------------------------
+[Article 25] (1) of Regulation (EU) 2019/818;
+(*) Regulation (EU) 2019/818 of the European Parliament and of the Council of 20 May 2019 on establishing 
+a framework for interoperability between EU information systems in the field of police and ju...
+--------------------------------------------------------------------------------
+[Article 4] is amended as follows:
+(a)  in paragraph 1, points (b) and (c) are replaced by the following: 
+‘(b)  a national system (N.SIS) in each of the Member States, consisting of the national data systems which 
+communicate with Ce...
+--------------------------------------------------------------------------------
+[Article 7] (2); and
+(d)  a secure communication infrastructure between CS-SIS and the central infrastructures of the ESP, the shared 
+BMS and the MID.’; 
+(b)  the following paragraphs are added: 
+‘8.
+Without prejudice to...
+--------------------------------------------------------------------------------
+[Article 7] , the following paragraph is inserted:
+‘2a.
+The SIRENE Bureaux shall also ensure the manual verification of different identities in accordance with...
+--------------------------------------------------------------------------------
+[Article 29] of Regulation (EU) 2019/818. To the extent necessary to carry out this task, the SIRENE Bureaux shall
+have access to the data stored in the CIR and the MID for the purposes laid down in Articles 21 and 26 of 
+Regulation (EU) 2019/818’;  
+(4) in...
+--------------------------------------------------------------------------------
+[Article 12] (1), the following subparagraph is added:
+‘Member States shall ensure that every access to personal data via the ESP is also logged for the purposes of 
+checking whether the search was lawful, monitoring the lawfulness of data processing, sel...
+--------------------------------------------------------------------------------
+[Article 44] (1), the following point is added:
+‘(f)  verifying different identities and combating identity fraud in accordance with Chapter V of Regulation 
+(EU) 2019/818’. 
+L 135/125 
+Official Journal of the European Union 
+EN     
+
+
+(6) In...
+--------------------------------------------------------------------------------
+[Article 74] , paragraph 7 is replaced by the following:
+‘7.
+For the purpose of...
+--------------------------------------------------------------------------------
+[Article 15] (4) and of paragraphs 3, 4 and 6 of this Article, eu-LISA shall store data referred
+to in...
+--------------------------------------------------------------------------------
+[Article 15] (4) and in paragraph 3 of this Article which shall not allow for the identification of individuals in the
+central repository for reporting and statistics referred to in...
+--------------------------------------------------------------------------------
+[Article 39] of Regulation (EU) 2019/818.
+eu-LISA shall allow the Commission and the bodies referred to in paragraph 6 of this Article to obtain bespoke 
+reports and statistics. Upon request, eu-LISA shall grant access to the central reposito...
+--------------------------------------------------------------------------------
+[Article 39] of Regulation (EU) 2019/818 to Member States, the Commission, Europol, and the
+European Border and Coast Guard Agency.’....
+--------------------------------------------------------------------------------
+[Article 61] Amendments to Regulation (EU) 2019/816
+Regulation (EU) 2019/816 is amended as follows:  
+(1) in...
+--------------------------------------------------------------------------------
+[Article 1] , the following point is added:
+‘(c)  the conditions under which ECRIS-TCN contributes to facilitating and assisting in the correct identification of 
+persons registered in ECRIS-TCN under the conditions and for the purposes of...
+--------------------------------------------------------------------------------
+[Article 20] of Regulation
+(EU) 2019/818 of the European Parliament and of the Council (*), by storing identity data, travel document 
+data and biometric data in the CIR.  
+(*) Regulation (EU) 2019/818 of the European Parliamen...
+--------------------------------------------------------------------------------
+[Article 2] is replaced by the following:
+‘...
+--------------------------------------------------------------------------------
+[Article 2] Scope
+This Regulation applies to the processing of identity information of third-country nationals who have been subject 
+to convictions in the Member States for the purpose of identifying the Member States...
+--------------------------------------------------------------------------------
+[Article 5] (1), the provisions of this Regulation that apply to
+third-country nationals also apply to citizens of the Union who also hold the nationality of a third country and 
+who have been subject to convictions in the Member States. This Regulation also facili...
+--------------------------------------------------------------------------------
+[Article 3] is amended as follows:
+(a)  point (8) is deleted; 
+(b)  the following points are added:  
+‘(19) ‘CIR’ means the common identity repository established by...
+--------------------------------------------------------------------------------
+[Article 17] (1) of Regulation (EU) 2019/818;
+(20) ‘ECRIS-TCN data’ means all data stored in the central system and in the CIR in accordance with...
+--------------------------------------------------------------------------------
+[Article 5] ;
+(21) ‘ESP’ means the European search portal established by...
+--------------------------------------------------------------------------------
+[Article 6] (1) of Regulation (EU) 2019/818.’;
+(4)...
+--------------------------------------------------------------------------------
+[Article 4] (1) is amended as follows:
+(a)  point (a) is replaced by the following: 
+‘(a)  a central system;’; 
+(b)  the following point is inserted: 
+‘(aa)  the CIR;’; 
+(c)  the following point is added: 
+‘(e)  a communication infrastruct...
+--------------------------------------------------------------------------------
+[Article 5] is amended as follows:
+(a)  in paragraph 1, the introductory part is replaced by the following: 
+‘1.
+For each convicted third-country national, the central authority of the convicting Member State shall 
+create a data recor...
+--------------------------------------------------------------------------------
+[Article 8] is amended as follows:
+(a)  paragraph 1 is replaced by the following: 
+‘1.
+Each data record shall be stored in the central system and the CIR for as long as the data related to the 
+convictions of the person concerned are s...
+--------------------------------------------------------------------------------
+[Article 9] is amended as follows:
+(a)  in paragraph 1, the word ‘ECRIS-TCN’ is replaced by the words ‘the central system and the CIR’; 
+(b)  in paragraphs (2), (3) and (4), the words ‘central system’ are replaced by the words ‘the cen...
+--------------------------------------------------------------------------------
+[Article 10] (1), point (j) is deleted;
+(9) in...
+--------------------------------------------------------------------------------
+[Article 12] (2), the words ‘central system’ are replaced by the words ‘the central system and the CIR’;
+(10) in...
+--------------------------------------------------------------------------------
+[Article 13] (2), the words ‘central system’ are replaced by the words ‘the central system, the CIR’;
+(11) in...
+--------------------------------------------------------------------------------
+[Article 23] (2), the words ‘central system’ are replaced by the words ‘the central system and the CIR’;
+(12)...
+--------------------------------------------------------------------------------
+[Article 24] is amended as follows:
+(a)  paragraph 1 is replaced by the following: 
+‘1.
+The data entered into the central system and the CIR shall only be processed for the purposes of the 
+identification of the Member States holding th...
+--------------------------------------------------------------------------------
+[Article 32] , paragraph 2 is replaced by the following:
+‘2.
+For the purpose of paragraph 1 of this Article, eu-LISA shall store the data referred to in that paragraph in 
+the central repository for reporting and statistics referred to in...
+--------------------------------------------------------------------------------
+[Article 39] of Regulation (EU) 2019/818’;
+(14) in...
+--------------------------------------------------------------------------------
+[Article 33] (1) the words ‘central system’ are replaced by the words ‘central system, the CIR and’;
+L 135/127 
+Official Journal of the European Union 
+EN     
+
+
+(15) in...
+--------------------------------------------------------------------------------
+[Article 41] , paragraph 2 is replaced by the following:
+‘2.
+For convictions handed down prior to the date of start of entry of data in accordance with...
+--------------------------------------------------------------------------------
+[Article 35] (1), the
+central authorities shall create the individual data records in the central system and the CIR as follows: 
+(a)  alphanumeric data to be entered into the central system and the CIR by the end of the p...
+--------------------------------------------------------------------------------
+[Article 35] (2);
+(b)  fingerprint data to be entered into the CIR within two years after the start of operations in accordance with...
+--------------------------------------------------------------------------------
+[Article 35] (4).’.
+CHAPTER X 
+Final provisions...
+--------------------------------------------------------------------------------
+[Article 62] Reporting and statistics
+1.
+The duly authorised staff of the competent authorities of Member States, the Commission and eu-LISA shall have 
+access to consult, solely for the purposes of reporting and statistics, the number of...
+--------------------------------------------------------------------------------
+[Article 18] (2)(b)
+and (c) of Regulation (EU) 2016/794. 
+6.
+For the purpose of paragraphs 1, 2 and 3, eu-LISA shall store the data referred to in those paragraphs in the 
+CRRS. It shall not be possible to identify indiv...
+--------------------------------------------------------------------------------
+[Article 63] Transitional period for the use of the European search portal
+1.
+For a period of two years from the date the ESP commences operations, the obligations referred to in...
+--------------------------------------------------------------------------------
+[Article 7] (2)
+and (4) shall not apply and the utilisation of the ESP shall be optional. 
+2.
+The Commission is empowered to adopt a delegated act in accordance with...
+--------------------------------------------------------------------------------
+[Article 69] in order to amend this
+Regulation by extending the period referred to in paragraph 1 of this Article once, by no longer than one year, when an 
+assessment of the implementation of the ESP has shown that such an extension is...
+--------------------------------------------------------------------------------
+[Article 64] Transitional period applicable to the provisions on access to the common identity repository for
+the purposes of preventing, detecting or investigating terrorist offences or other serious criminal 
+offences...
+--------------------------------------------------------------------------------
+[Article 22] shall apply from the date of the start of operations of the CIR referred to in
+shall apply from the date of the start of operations of the CIR referred to in...
+--------------------------------------------------------------------------------
+[Article 68] (3).
+(3)....
+--------------------------------------------------------------------------------
+[Article 65] Transitional period for multiple-identity detection
+1.
+For a period of one year following notification by eu-LISA of the completion of the test of the MID referred to in...
+--------------------------------------------------------------------------------
+[Article 68] (4)(b) and before the start of operations of the MID, the ETIAS Central Unit shall be responsible for carrying
+out multiple-identity detection using the data stored in the EES, VIS, Eurodac and SIS. The multiple-identity detections 
+shall be carried out using only biometric data. 
+2.
+Where the query reports on...
+--------------------------------------------------------------------------------
+[Article 33] .
+Where the query reports one or several matches and the identity data in the linked files cannot be considered to be 
+similar, a yellow link shall be created in accordance with...
+--------------------------------------------------------------------------------
+[Article 30] and the procedure referred to in
+and the procedure referred to in...
+--------------------------------------------------------------------------------
+[Article 29] shall
+apply. 
+Where several matches are reported, a link shall be created between each piece of data triggering the match. 
+3.
+Where a yellow link is created, the MID shall grant access to the identity data...
+--------------------------------------------------------------------------------
+[Article 3] of Regulation
+(EU) 2018/1860, Articles 24 and 25 of Regulation (EU) 2018/1861, or...
+--------------------------------------------------------------------------------
+[Article 38] of Regulation (EU) 2018/1862, the
+MID shall grant access to the identity data present in the different information systems to the SIRENE Bureau of the 
+Member State that created the alert. 
+5.
+The ETIAS Central Unit or, in the cases r...
+--------------------------------------------------------------------------------
+[Article 67] (3) only once all yellow links
+have been manually verified and their status updated as either green, white or red links. 
+7.
+Member States shall assist the ETIAS Central Unit where necessary in carrying out multiple-identity detect...
+--------------------------------------------------------------------------------
+[Article 69] in order to amend this
+Regulation by extending the period referred to in paragraph 1 of this Article by six months, renewable twice by six 
+months each time. Such an extension shall only be granted following an assessment o...
+--------------------------------------------------------------------------------
+[Article 66] Costs
+1.
+The costs incurred in connection with the establishment and operation of the ESP, the shared BMS, the CIR and 
+the MID shall be borne by the general budget of the Union. 
+2.
+Costs incurred in conne...
+--------------------------------------------------------------------------------
+[Article 5] (5)(b) of Regulation (EU) No 515/2014 to cover the costs of implementation of this Regulation, as
+foreseen under paragraphs 1 and 2 of this Article. 
+4.
+From the envelope referred to in paragraph 3, EUR 22 861 000 shall be allocated to eu-LISA, EUR 9 072 000 
+shall be allocated to Europol and EUR ...
+--------------------------------------------------------------------------------
+[Article 67] Notifications
+1.
+The Member States shall notify eu-LISA of the authorities referred to in Articles 7, 20, 21 and 26 that may use or 
+have access to the ESP, the CIR and the MID respectively. 
+A consolidated list of...
+--------------------------------------------------------------------------------
+[Article 68] . Where there are amendments to the list, eu-LISA shall publish an updated consolidated list once a year.
+2.
+eu-LISA shall notify the Commission of the successful completion of the tests referred to in...
+--------------------------------------------------------------------------------
+[Article 68] (1)(b), (2)(b),
+(3)(b), (4)(b), (5)(b) and (6)(b). 
+3.
+The ETIAS Central Unit shall notify the Commission of the successful completion of the transitional period laid 
+down in...
+--------------------------------------------------------------------------------
+[Article 65] .
+4.
+The Commission shall make the information notified pursuant to paragraph 1 available to the Member States and 
+to the public, via a constantly updated public website....
+--------------------------------------------------------------------------------
+[Article 68] Start of operations
+1.
+The Commission shall determine the date from which the ESP is to start operations by means of an implementing 
+act once the following conditions have been met: 
+(a)  the measures referred to in Art...
+--------------------------------------------------------------------------------
+[Article 8] (1)
+and has notified them to the Commission. 
+The ESP shall only query the Interpol databases once the technical arrangements allow compliance with...
+--------------------------------------------------------------------------------
+[Article 9] (5).
+Any impossibility of complying with...
+--------------------------------------------------------------------------------
+[Article 9] (5) shall have the result that the ESP does not query the Interpol databases
+but shall not delay the start of operations of the ESP. 
+The Commission shall set the date referred to in the first subparagraph to be within 30 days from adoption of the 
+implementing act. 
+2.
+The Co...
+--------------------------------------------------------------------------------
+[Article 13] and has notified them to the Commission;
+(d)  eu-LISA has declared the successful completion of the test referred to in paragraph 5(b). 
+The Commission shall set the date referred to in the first subparagraph to be within 30 days from adopti...
+--------------------------------------------------------------------------------
+[Article 18] and has notified them to the Commission;
+(d)  eu-LISA has declared the successful completion of the test referred to in paragraph 5(b). 
+The Commission shall set the date referred to in the first subparagraph to be within 30 days from adopti...
+--------------------------------------------------------------------------------
+[Article 34] and has notified them to the Commission;
+(d)  the ETIAS Central Unit has notified the Commission in accordance with...
+--------------------------------------------------------------------------------
+[Article 67] (3);
+(e)  eu-LISA has declared the successful completion of the tests referred to in paragraphs 1(b), 2(b), 3(b) and 5(b). 
+The Commission shall set the date referred to in the first subparagraph to be wit...
+--------------------------------------------------------------------------------
+[Article 39] and has notified them to the Commission.
+The Commission shall set the date referred to in the first subparagraph to be within 30 days from adoption of the 
+implementing act. 
+7.
+The Commission shall inform the European Parliament and the Cou...
+--------------------------------------------------------------------------------
+[Article 69] Exercise of the delegation
+1.
+The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this 
+Article. 
+2.
+The power to adopt delegated acts referred to in Articles 28(5), 39(5), 49...
+--------------------------------------------------------------------------------
+[Article 70] Committee procedure
+1.
+The Commission shall be assisted by a committee. That committee shall be a committee within the meaning of 
+Regulation (EU) No 182/2011. 
+2.
+Where reference is made to this paragraph,...
+--------------------------------------------------------------------------------
+[Article 5] of Regulation (EU) No 182/2011 shall apply.
+Where the committee delivers no opinion, the Commission shall not adopt the draft implementing act and the third 
+subparagraph of...
+--------------------------------------------------------------------------------
+[Article 5] (4) of Regulation (EU) No 182/2011 shall apply.
+L 135/132 
+Official Journal of the European Union 
+EN...
+--------------------------------------------------------------------------------
+[Article 71] Advisory Group
+An Interoperability Advisory Group shall be established by eu-LISA. During the design and development phase of the 
+interoperability components,...
+--------------------------------------------------------------------------------
+[Article 54] (4), (5) and (6) shall apply.
+(4), (5) and (6) shall apply....
+--------------------------------------------------------------------------------
+[Article 72] Training
+eu-LISA shall perform tasks related to the provision of training on the technical use of the interoperability components 
+in accordance with Regulation (EU) 2018/1726. 
+Member States authorities and U...
+--------------------------------------------------------------------------------
+[Article 73] Practical handbook
+The Commission shall, in close cooperation with the Member States, eu-LISA and other relevant Union agencies, make 
+available a practical handbook for the implementation and management of the interope...
+--------------------------------------------------------------------------------
+[Article 74] Monitoring and evaluation
+1.
+eu-LISA shall ensure that procedures are in place to monitor the development of the interoperability components 
+and their connection to the national uniform interface in light of objectives relati...
+--------------------------------------------------------------------------------
+[Article 68] and
+every four years thereafter, eu-LISA shall submit to the European Parliament, to the Council and to the Commission 
+a report on the technical functioning of the interoperability components, including ...
+--------------------------------------------------------------------------------
+[Article 68] have been adopted, the Commission shall submit a report to the European Parliament and to the Council on
+the state of play of preparations for the full implementation of this Regulation. That report shall contain also detailed 
+information about the costs incurred and information as to any risks which ma...
+--------------------------------------------------------------------------------
+[Article 68] (4), the Commission shall produce
+an examination of the impact of the MID on the right to non-discrimination. Following this first report, the 
+examination of the impact of the MID on the right to non-discrimination shall be part of t...
+--------------------------------------------------------------------------------
+[Article 22] and to facilitate the collection of the information under paragraphs 7 and 9 of this Article for the purpose
+of generating reports and statistics referred to in those paragraphs. The Commission shall adopt implementing acts to 
+lay down the specifications of the technical solution. Those implementing acts sh...
+--------------------------------------------------------------------------------
+[Article 70] (2).
+L 135/134 
+Official Journal of the European Union 
+EN...
+--------------------------------------------------------------------------------
+[Article 75] Entry into force and applicability
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the 
+European Union. 
+The provisions of this Regulation related to the ESP shal...
+--------------------------------------------------------------------------------
+[Article 68] (1).
+The provisions of this Regulation related to the shared BMS shall apply from the date determined by the Commission in 
+accordance with...
+--------------------------------------------------------------------------------
+[Article 68] (2).
+The provisions of this Regulation related to the CIR shall apply from the date determined by the Commission in 
+accordance with...
+--------------------------------------------------------------------------------
+[Article 68] (3).
+The provisions of this Regulation related to the MID shall apply from the date determined by the Commission in 
+accordance with...
+--------------------------------------------------------------------------------
+[Article 68] (4).
+The provisions of this Regulation related to the automated data quality control mechanisms and procedures, the 
+common data quality indicators and the minimum data quality standards shall apply respec...
+--------------------------------------------------------------------------------
+[Article 68] (5).
+The provisions of this Regulation related to the CRRS shall apply from the date determined by the Commission in 
+accordance with...
+--------------------------------------------------------------------------------
+[Article 68] (6).
+Articles 6, 12, 17, 25, 38, 42, 54, 56, 58, 66, 67, 69, 70, 71, 73 and 74(1) shall apply from 11 June 2019. 
+This Regulation shall apply in relation to Eurodac from the date the recast of Regulation (...
+--------------------------------------------------------------------------------

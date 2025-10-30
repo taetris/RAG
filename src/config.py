@@ -10,12 +10,12 @@ BASE_DIR = Path(__file__).parent.parent
 
 # Paths
 DATA_FOLDER = BASE_DIR / "data"
-OUTPUT_FOLDER = BASE_DIR / "output"
+OUTPUT_FOLDER = BASE_DIR / "outputs"
 CACHE_FOLDER = BASE_DIR / "cache"
 
 # File names
 POLICY_FILE = "data_protection.pdf"
-LAW_FILE = "v2.pdf"
+REGULATION_FILE = "version2.pdf"
 REPORT_FILE = "comparison_report.csv"
 EMBEDDINGS_CACHE = "embeddings_cache.pkl"
 
@@ -33,7 +33,7 @@ LLM_MODEL = "gpt-4o-mini"  # Cheap and effective
 
 # Chunking configuration
 POLICY_SECTION_PATTERN = r'(\d+\.\d+(?:\.\d+)?)\s+'  # Matches 5.1, 5.1.1, etc.
-LAW_ARTICLE_PATTERN = r'(Article \d+)'
+REGULATION_ARTICLE_PATTERN = r'(Article \d+)'
 
 # Retrieval configuration
 TOP_K_DENSE = 10  # Top results from embedding search

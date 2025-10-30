@@ -1,0 +1,907 @@
+[
+  {
+    "section_id": "1.7",
+    "section_title": "Policy owner: Central Operations, Finance",
+    "parent_sections": [
+      "1"
+    ],
+    "level": 2,
+    "text": "Variation  \nThis document replaces the previous Data Protection Policy v1.6 and has been \nreviewed as part of ICAEW annual compliance procedure. The contents have been \nupdated in this version.  \n \nThis policy/procedure is applicable to employees, contractors, volunteers and \nrepresentatives of ICAEW including staff in our non -UK offices.  \n \n \nCONTENTS  \n1 Policy  statement  ................................ ................................ ............................  2 \n2 Introduction  ................................ ................................ ................................ ...........  2 \n3 Scope  ................................ ................................ ................................ .......  3 \n4 Definitions  ................................ ................................ ................................ .............  3 \n5 Data protection  principles  ................................ ................................ ..............  4 \n6 Legal basis (conditions) for Processing  Personal  Data  ................................ ... 5 \n7 Special Categories of  Personal  Data  ................................ .............................  6 \n8 Criminal  records  information  ................................ ................................ .................  8 \n9 Data protection impact  assessments  (DPIAs)  ................................ ................  9 \n10 Documentation and  records  ................................ ................................ ...........  9 \n11 Privacy notices  ................................ ................................ ............................  10 \n12 Individuals  rights  ................................ ................................ ................................ .. 10 \n13 Our obligations  ................................ ................................ ................................ .... 13 \n14 Information  security  ................................ ................................ .............................  14 \n15 Storage and retention of  Personal  Data  ................................ .......................  15\n#149287v3 - Internal Data Protection Policy - HelloDPO review -    090522     16 Data  breaches  ................................ ................................ .........................  16 \n17 Training  ................................ ................................ ................................ ...............  16 \n18 International transfers  ................................ ................................ ..................  17 \n19 Consequences of failing  to comply  ................................ ................................ ...... 17 \n20 Associated  Policies  ................................ ................................ .....................  17 \n \n \n \n1 Policy  statement",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "1.1",
+    "section_title": "The Institute of Chartered Accountants in England and Wales (ICAEW) is",
+    "parent_sections": [
+      "1"
+    ],
+    "level": 2,
+    "text": "committed to ensuring that an appropriate policy is laid down for the internal \nmanagement and use of Personal Data within the  organisation.",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "1.2",
+    "section_title": "You must  read this policy  because  it gives  important  information  about:",
+    "parent_sections": [
+      "1"
+    ],
+    "level": 2,
+    "text": "• the data protection principles with which ICAEW must  comply;  \n• what is meant by Personal Data and Special Categories of Personal  Data;  \n• how we gather, use and (ultimately) delete Personal Data and Special  \nCategories of Personal Data in accordance with the data protection  \nprinciples;  \n• where more detailed privacy information can be found, e.g., about the \nPersonal Data we gather and use about you, our members or third parties, \nhow it is used, stored and transferred, for what purposes, the steps taken to \nkeep that information  secure  and for how long it is kept;  \n• rights and obligations in relation to data protection; and  \n• the consequences of failure to comply with this  policy.  \n \n \n2 Introduction",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "2.1",
+    "section_title": "ICAEW obtains, keeps and uses Personal Data about a number of",
+    "parent_sections": [
+      "2"
+    ],
+    "level": 2,
+    "text": "individuals, for example:",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "2.1.1",
+    "section_title": "Job applicants, current and former employees, workers and agency",
+    "parent_sections": [
+      "2",
+      "2.1"
+    ],
+    "level": 3,
+    "text": "staff, contractors and consultants, apprentices, interns, and people \ndoing work experience;",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "2.1.2",
+    "section_title": "ICAEW members, including reciprocal and affiliate  members;",
+    "parent_sections": [
+      "2",
+      "2.1"
+    ],
+    "level": 3,
+    "text": "",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "2.1.3",
+    "section_title": "ICAEW  students;",
+    "parent_sections": [
+      "2",
+      "2.1"
+    ],
+    "level": 3,
+    "text": "",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "2.1.4",
+    "section_title": "Those working at ICAEW Authorised Training Employers who oversee,",
+    "parent_sections": [
+      "2",
+      "2.1"
+    ],
+    "level": 3,
+    "text": "and are involved in, the training  process;",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "2.1.5",
+    "section_title": "Pension fund  members;",
+    "parent_sections": [
+      "2",
+      "2.1"
+    ],
+    "level": 3,
+    "text": "",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "2.1.6",
+    "section_title": "Regulated, assured, registered, licensed and authorised individuals;",
+    "parent_sections": [
+      "2",
+      "2.1"
+    ],
+    "level": 3,
+    "text": "",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "2.1.7",
+    "section_title": "Members of ICAEW online communities and forums;",
+    "parent_sections": [
+      "2",
+      "2.1"
+    ],
+    "level": 3,
+    "text": "#149287v3 - Internal Data Protection Policy - HelloDPO review -    090522",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "2.1.8",
+    "section_title": "Attendees/Delegates/Trainers at training sessions, webinars  and",
+    "parent_sections": [
+      "2",
+      "2.1"
+    ],
+    "level": 3,
+    "text": "other  events;",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "2.1.9",
+    "section_title": "Suppliers, clients and their employees and other third  parties;",
+    "parent_sections": [
+      "2",
+      "2.1"
+    ],
+    "level": 3,
+    "text": "",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "2.1.10",
+    "section_title": "Individuals that bring a complaint about an ICAEW member, student,  or",
+    "parent_sections": [
+      "2",
+      "2.1"
+    ],
+    "level": 3,
+    "text": "regulated firm or  individual;",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "2.1.11",
+    "section_title": "Members of the general public browsing the  website;",
+    "parent_sections": [
+      "2",
+      "2.1"
+    ],
+    "level": 3,
+    "text": "",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "2.1.12",
+    "section_title": "Academics receiving research funding from ICAEW;",
+    "parent_sections": [
+      "2",
+      "2.1"
+    ],
+    "level": 3,
+    "text": "",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "2.1.13",
+    "section_title": "Board and Committee Members and volunteers;  and",
+    "parent_sections": [
+      "2",
+      "2.1"
+    ],
+    "level": 3,
+    "text": "",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "2.1.14",
+    "section_title": "Subscribers to faculties and special interest  groups.",
+    "parent_sections": [
+      "2",
+      "2.1"
+    ],
+    "level": 3,
+    "text": "",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "2.2",
+    "section_title": "The specific lawful purposes, for which ICAEW obtains, keeps and uses",
+    "parent_sections": [
+      "2"
+    ],
+    "level": 2,
+    "text": "Personal Data are set out in ICAEW’s record of processing activities and in \nICAEW’s privacy notices and associated documents which are provided to \nindividuals when we collect and use their Personal Data.",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "2.3",
+    "section_title": "This policy sets out how we comply with our data protection obligations and",
+    "parent_sections": [
+      "2"
+    ],
+    "level": 2,
+    "text": "seek to protect Personal Data. Its purpose is also to ensure that all individuals \nunderstand  and comply with the rules governing the collection, use and \ndeletion of Personal Data to which they may have access in the course of their  \nwork.",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "2.4",
+    "section_title": "We are committed to complying with our data protection obligations, and to",
+    "parent_sections": [
+      "2"
+    ],
+    "level": 2,
+    "text": "being concise, clear and transparent about how we obtain and use Personal \nData, and how (and  when)  we delete  that information  once  it is no longer  \nrequired.",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "2.5",
+    "section_title": "Our Data Protection Team and our Data Protection Officer are responsible for",
+    "parent_sections": [
+      "2"
+    ],
+    "level": 2,
+    "text": "informing and advising ICAEW and its individuals who have access to Personal \nData on its data protection obligations, and for monitoring compliance with \nthose obligations  and with ICAEW’s  policies.  If you have  any questions  or \ncomments  about the content of this policy or if you need further information, \nyou should contact the Data  Protection  Team  via email  using:  \ndataprotection@icaew.com.  \n \n3 Scope",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "3.1",
+    "section_title": "This policy applies to all employees, contractors, volunteers and representatives",
+    "parent_sections": [
+      "3"
+    ],
+    "level": 2,
+    "text": "of ICAEW including staff in our non -UK offices .",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "3.2",
+    "section_title": "We will review and update this policy  annually.",
+    "parent_sections": [
+      "3"
+    ],
+    "level": 2,
+    "text": "4 Definitions\n#149287v3 - Internal Data Protection Policy - HelloDPO review -    090522     Criminal records information  \n means  Personal Data relating to criminal convictions and \noffences, allegations, proceedings and related security \nmeasures.  \n \nData breach  means  a  breach  of  security  leading  t o the accidental  \nor unlawful destruction, loss, alteration, unauthorised \ndisclosure of, or access to, Personal  Data.  \n \nDPO  means our Data  Protection  Officer,  who  is  the  individual  \nwith specific responsibility for data protection in  ICAEW.  \n \nPersonal  Data  means information  relating  to  a  living  individual  who  can  \nbe identified (directly or indirectly) from that  information.  \n  \n \nProcessi n\ng \ninformatio\nn means obtaining, recording, organising, storing, amending, \nretrieving, disclosing and/or destroying information, or using \nor doing anything with Personal   Data.  \n \npseudonymised     means  the  process  by  which  Personal  Data  is  Processed  \nin such a way that it cannot be used to identify an individual \nwithout the use of additional information, which is kept \nseparately and subject to technical  and  organisationa l \nmeasures to ensure that the Personal  Data  cannot  be  \nattributed  to an identifiable  individual.  \n \nROPA  our  record  of  processing  activities  which  sets  out    details  \nof what information we collect, who it is shared with and   why.  \n \nspecial \ncategories of \npersonal data  (sometimes known as ‘special personal data’ or ‘sensitive \npersonal data’) means Personal Data about an individual’s  \nrace, ethnic origin, political opinions, religious or \nphilosophical beliefs, trade union membership (or non -\nmembership),  genetics information, biometric information \n(where used to identify an indi vidual) and information \nconcerning an individual’s  health,  sex life or sexual\n#149287v3 - Internal Data Protection Policy - HelloDPO review -    090522     orientation.  \n \n5 Data protection  principles",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "5.1",
+    "section_title": "ICAEW will comply with the following data protection principles when Processing",
+    "parent_sections": [
+      "5"
+    ],
+    "level": 2,
+    "text": "Personal  Data:  \n5.1.1  we will process Personal Data lawfully, fairly and in  a transparent \nmanner,  for  example  we will always  tell individuals  how we collect  \nand use their\n#149287v3 - Internal Data Protection Policy - HelloDPO review -    090522     Personal Data in privacy notices, and we will make sure that we have \na legal basis (condition) for collecting and using their Personal Data;  \n5.1.2  we will collect Personal Data  for  specified,  explicit  and  legitimate  \npurposes only, and will not process it in a way that is incompatible with \nthose legitimate  purposes;  \n5.1.3  we will only  process Personal  Data that is  adequate, relevant and  \nnecessary for the relevant purposes;  \n5.1.4  we will keep accurate and up -to-date Personal Data, and take \nreasonable steps to ensure that inaccurate Personal Data are \ndeleted or corrected without  delay;  \n5.1.5  we will keep Personal Data for no longer than is necessary for the  \npurposes  for which  the information  is processed;  and \n5.1.6  we will take appropriate technical and organisational measures to \nensure that Personal Data are kept secure and protected against \nunauthorised or unlawful  Processing,  and against  accidental  loss,  \ndestruction  or damage.  \n \n6 Legal basis (conditions) for Processing Personal  Data",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "6.1",
+    "section_title": "In relation to any Processing activity, we will, before the Processing starts for",
+    "parent_sections": [
+      "6"
+    ],
+    "level": 2,
+    "text": "the first time,  and then regularly  while  it continues:  \n6.1.1  review the purposes of the particular Processing activity, and select the \nmost appropriate lawful basis (or bases) for that Processing,  i.e.: \n(a) that the individual has consented to the   Processing;  \n(b) that the  Processing  is necessary  for the performance of  a \ncontract   to which the individual is party or in order to take steps \nat the request of  the individual  prior  to entering  into a contract;  \n(c) that the Processing is necessary for compliance  with  a  legal \nobligation to which ICAEW is  subject;  \n(d) that the Processing is necessary for the protection of  the  vital  \ninterests of the individual or another natural  person;  \n(e) that the Processing is necessary for the  performance  of  a  task  \ncarried out in the public interest or exercise of official authority;   \nor \n(f) that the Processing is necessary for the purposes of  legitimate  \ninterests of ICAEW or a third party, except where those interests \nare overridden by the interests of fundamental rights and \nfreedoms of the individual – see section 6.2  below.\n#149287v3 - Internal Data Protection Policy - HelloDPO review -    090522     6.1.2  except where the Processing is based on consent, satisfy ourselves that \nthe Processing is necessary for the purpose of the relevant lawful basis \n(i.e., that there is no other reasonable way to achieve that  purpose);  \n6.1.3  document our decision as to which lawful basis applies in our ROPA, to \nhelp demonstrate our compliance with the data protection  principles;  \n6.1.4  include information about both the purposes of the Processing and the \nlawful basis  for it in our relevant  privacy  notice(s);  \n6.1.5  where special categories of Personal Data are processed, also  identify  \na  lawful special condition for Processing that information (see section \n7.1.2 below),  and document  it in our ROPA;  and \n6.1.6  where criminal offence information is processed,  also  identify  a  lawful \ncondition for Processing that information, and document it in our    ROPA.",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "6.2",
+    "section_title": "When determining whether ICAEW’s legitimate interests are  the  most",
+    "parent_sections": [
+      "6"
+    ],
+    "level": 2,
+    "text": "appropriate  basis for lawful Processing, we  will: \n6.2.1  conduct a legitimate interest assessment (LIA) and keep a record of it, \nto ensure that we can justify our  decision;  \n6.2.2  if the LIA identifies a significant privacy impact, consider whether we \nalso need to conduct a data protection impact assessment  (DPIA);  \n6.2.3  keep  the LIA under  review,  and repeat it  if  circumstances  change;  and \n6.2.4  include information about our legitimate interests in our relevant privacy \nnotice(s).  \n \n7 Special Categories of Personal  Data",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "7.1",
+    "section_title": "We may from time to time need to process Special Categories of Personal",
+    "parent_sections": [
+      "7"
+    ],
+    "level": 2,
+    "text": "Data. For more detail of how we process Special Categories of Personal Data \nplease see the specific Appropriate Policy Document relating to the use of the \nPersonal Data in that way.  We will only process  Special  Categories  of Personal  \nData  if: \n7.1.1  we have a lawful basis for doing so as set out in section 6.1.1 above, \ne.g., it is necessary for the performance of the employment contract, to \ncomply with ICAEW’s  legal  obligations  or for the purposes  of ICAEW’s  \nlegitimate  interests; and  \n7.1.2  one of the special conditions for Processing Special Categories of \nPersonal Data applies,  e.g.:  \n(a) the individual  has given  explicit  consent;  \n(b) the Processing is necessary for the purposes of exercising the \nemployment law rights or obligations of ICAEW or the  \nindividual;\n#149287v3 - Internal Data Protection Policy - HelloDPO review -    090522     (c) the Processing is necessary to protect the individual’s vital \ninterests, and  the individual  is physically  incapable  of giving  \nconsent;  \n(d) Processing relates to Personal Data which are manifestly \nmade public by the  individual;  \n(e) the Processing is necessary for the establishment, exercise or  \ndefence of legal  claims;  \n(f) the Processing is  necessary for reasons of substantial  public \ninterest;  or \n(g) we have a lawful basis for doing so under the Data Protection \nAct 2018.",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "7.2",
+    "section_title": "Before Processing any Special Categories of Personal Data, individuals must",
+    "parent_sections": [
+      "7"
+    ],
+    "level": 2,
+    "text": "notify the Data Protection Team of the proposed Processing, in order that we \nmay assess whether the Processing complies with the criteria noted  above.",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "7.3",
+    "section_title": "Special Categories of  Personal Data will not  be Processed    until:",
+    "parent_sections": [
+      "7"
+    ],
+    "level": 2,
+    "text": "7.3.1  the assessment referred to in section 7.2 has taken place;   and \n7.3.2  the individual has been properly informed (by way of a privacy notice or \notherwise) of the nature of the Processing, the purposes for which it is \nbeing carried out and the legal basis for  it.",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "7.4",
+    "section_title": "ICAEW will not carry out automated decision -making (including profiling) based on",
+    "parent_sections": [
+      "7"
+    ],
+    "level": 2,
+    "text": "any  individual’s  Special Categories of  Personal  Data.",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "7.5",
+    "section_title": "ICAEW’s privacy notices set out the types of Special Categories of Personal",
+    "parent_sections": [
+      "7"
+    ],
+    "level": 2,
+    "text": "Data that ICAEW processes, what it is used for and the lawful basis for the  \nProcessing.",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "7.6",
+    "section_title": "In relation to Special Categories of Personal Data relating to employees and other",
+    "parent_sections": [
+      "7"
+    ],
+    "level": 2,
+    "text": "personnel, ICAEW will comply with the procedures set  out  in  section  7.6.1  and  \nsection 7.6.2 below to  make  sure that  it complies  with  the data  protection  \nprincip les set  out  in section  5  above.",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "7.6.1",
+    "section_title": "Employees  and  other  personnel  –  during  the  recruitment  process:",
+    "parent_sections": [
+      "7",
+      "7.6"
+    ],
+    "level": 3,
+    "text": "the  HR team, with guidance from our Data Protection Team will ensure \nthat (except where the law permits  otherwise):  \n(a) during the short -listing, interview and decision -making stages, no \nquestions are asked relating to Special Categories of Personal \nData, e.g., race or ethnic origin, trade union membership or \nhealth except where it is necessary to ask questions about a \ncand idate’s health or disability, in order to make reasonable \nadjustments to the interview and selection process, or to \nemployment arrangements because of a candidate’s  disability;\n#149287v3 - Internal Data Protection Policy - HelloDPO review -    090522     (b) if Special Categories of Personal Data are received, e.g., the \napplicant provides it without being asked for it within his or her CV \nor during the interview, no record is kept of it and any reference to \nit is immediately deleted  or  redacted;  \n \n(c) any completed equal opportunities monitoring form is kept \nseparate from the individual’s application form, and will not be \nseen by the person shortlisting, interviewing or making the \nrecruitment decision. The form will however be seen by HR \nRecruitment in order that they can assess if any reasonable \nadjustments need to be made to the interview and selection \nprocess, or to employment arrangements because of a \ncandidate’s  disability;  \n(d) ‘right to work’ checks are carried out after an offer of employment is \nmade unconditional, and  not  during the  earlier  short -listing,  \ninterview or  decision -making  stages;  and \n(e) we will only ask health questions once an offer of employment \nhas been made, except where it is necessary to ask questions \nabout a candidate’s health or disability, in order to make \nreasonable adjustments to the interview and selection process, \nor to emplo yment arrangements because of a candidate’s  \ndisability.",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "7.6.2",
+    "section_title": "Employees and other personnel – during employment: the HR team,",
+    "parent_sections": [
+      "7",
+      "7.6"
+    ],
+    "level": 3,
+    "text": "with guidance  from  our Data  Protection  Team  will process:  \n(a) health information for the purposes of administering sick pay, \nkeeping sickness absence records, monitoring individual’s \nattendance, assessing and facilitating any additional assistance \nto the employee based on their health needs and facilitating \nemployment -related health and sickness  benefits;  \n(b) Special Categories of Personal Data for the purposes of equal \nopportunities monitoring and pay equality reporting.  Where  \npossible, this information will be  anonymised.  \n \n8 Criminal records  information  \nWe may from time to time need to process Personal Data relating to criminal \nrecords. For more detail of how we process Personal Data relating to criminal \nrecords please see the specific Appropriate Policy Document relating to the \nuse of Personal Data in th at way.\n#149287v3 - Internal Data Protection Policy - HelloDPO review -    090522  Page 10 of \n18   \n9 Data  protection  impact  assessments  (DPIAs)",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "9.1",
+    "section_title": "Where Processing is likely to result in a high risk to an individual’s data",
+    "parent_sections": [
+      "9"
+    ],
+    "level": 2,
+    "text": "protection rights we will, before commencing the Processing, carry out a DPIA \nto assess:  \n9.1.1  whether the Processing is necessary and proportionate in relation to \nits purpose;  \n9.1.2  the risks to individuals;  and \n9.1.3  what measures can be put in place to address those risks  and  protect  \nPersonal  Data.",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "9.2",
+    "section_title": "Before all new projects involving a new collection of Personal Data, new data",
+    "parent_sections": [
+      "9"
+    ],
+    "level": 2,
+    "text": "sharing or where Personal Data is going to be used for a new  purpose you \nmust  complete  the DPIA Checklist to determine whether a DPIA is required. \nThis is in compliance with our DPIA  Policy.",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "9.3",
+    "section_title": "During the course of any DPIA, ICAEW will seek the advice of our Data",
+    "parent_sections": [
+      "9"
+    ],
+    "level": 2,
+    "text": "Protection Team and/or the DPO and the views of a representative group of \nemployees and any other relevant  stakeholders.  \n \n10 Documentation and records",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "10.1",
+    "section_title": "We have a ROPA to record our data Processing activities. This contains",
+    "parent_sections": [
+      "10"
+    ],
+    "level": 2,
+    "text": "information relating  to the following  matters:  \n10.1.1  the identity of the controller, processor or joint  controller;  \n10.1.2  details of any Data Protection Officer for the relevant controller, processor \nor    joint  controller;  \n10.1.3  the purposes of the  Processing;  \n10.1.4  a description of the categories of individuals and categories of Personal  \nData;  \n10.1.5  categories  of  recipients  of  Personal  Data;  \n10.1.6  where relevant, details of transfers to third countries, including \ndocumentation of the transfer mechanism safeguards in  place;  \n10.1.7  where  possible,  retention  schedules;  and \n10.1.8  where possible, a description of technical and organisational security \nmeasures.",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "10.2",
+    "section_title": "As part of our ROPA  we document,  or link to documentation,  on:",
+    "parent_sections": [
+      "10"
+    ],
+    "level": 2,
+    "text": "10.2.1  information required for privacy  notices;  \n10.2.2  records of  consent;  \n10.2.3  controller -processor  contracts;  \n10.2.4  the location of Personal Data;  and\n#149287v3 - Internal Data Protection Policy - HelloDPO review -    090522  Page 11 of \n18",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "10.2.5",
+    "section_title": "DPIAs.",
+    "parent_sections": [
+      "10",
+      "10.2"
+    ],
+    "level": 3,
+    "text": "#149287v3 - Internal Data Protection Policy - HelloDPO review -    090522",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "10.3",
+    "section_title": "When we process Special Categories of Personal Data or Criminal Records",
+    "parent_sections": [
+      "10"
+    ],
+    "level": 2,
+    "text": "Information,  we will keep  written  records  of: \n10.3.1  the relevant purpose(s) for which the Processing takes place,  \nincluding  (where required) why it is necessary for that  purpose;  \n10.3.2  the lawful basis for our Processing; and  \n10.3.3  whether we retain and erase the Personal Data in accordance with our \nData Retention and Destruction Policy and, if not, the reasons for not \nfollowing our Data Retention and Destruction  Policy.",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "10.4",
+    "section_title": "We will conduct regular reviews of the Personal Data we process and update",
+    "parent_sections": [
+      "10"
+    ],
+    "level": 2,
+    "text": "our documentation  accordingly.  This may include:  \n10.4.1  carrying out information audits to find out what Personal Data ICAEW    \nholds;  \n10.4.2  distributing questionnaires and talking to individuals across ICAEW to \nget a more complete picture of our Processing activities;  and \n10.4.3  reviewing our policies, procedures, contracts and agreements to \naddress areas  such  as retention,  security  and data sharing.  \n \n11 Privacy  notices",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "11.1",
+    "section_title": "ICAEW will issue privacy notices, informing individuals about the Personal Data",
+    "parent_sections": [
+      "11"
+    ],
+    "level": 2,
+    "text": "that   we collect  and hold,  how individuals  can  expect their Personal Data to be  \nused  and  for what purposes. These privacy notices will be  provided  at  the  point  \nof  data collection or as soon as we use the Personal Data, if  this  has  come  from  \nanother source, for example, if we ever use Personal Data passed to us by a third \nparty for example, a member firm or marketing    agency.",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "11.2",
+    "section_title": "We will take appropriate measures to provide information in privacy notices in",
+    "parent_sections": [
+      "11"
+    ],
+    "level": 2,
+    "text": "a concise, transparent, intelligible and easily accessible form, using clear and \nplain language.  \n \n12 Individuals’  rights",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "12.1",
+    "section_title": "Individuals (this includes our employees and members) have legal rights in relation",
+    "parent_sections": [
+      "12"
+    ],
+    "level": 2,
+    "text": "to their  Personal  Data.",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "12.1.1",
+    "section_title": "The right  to be informed",
+    "parent_sections": [
+      "12",
+      "12.1"
+    ],
+    "level": 3,
+    "text": "(a) Individuals have a right to be informed about how we will use and \nshare their Personal Data, we provide this information in a clear \nand transparent manner in our privacy  notices.",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "12.1.2",
+    "section_title": "The right  of access",
+    "parent_sections": [
+      "12",
+      "12.1"
+    ],
+    "level": 3,
+    "text": "#149287v3 - Internal Data Protection Policy - HelloDPO review -    090522     (a) Individuals have the right to know if we are Processing their \nPersonal Data and access to their Personal Data along with \nadditional pieces of information,  for example,  who this is shared  \nwith.  \n(b) We do not always have to provide all the information if  exemptions \napply.",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "12.1.3",
+    "section_title": "The right to  rectification",
+    "parent_sections": [
+      "12",
+      "12.1"
+    ],
+    "level": 3,
+    "text": "(a) Individuals have a right to have any inaccurate or incomplete \nPersonal Data  rectified.  \n(b) If we have passed this data to any third parties, we have an \nobligation to also inform them that we have received this request, \nunless it is disproportionate to do  so.",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "12.1.4",
+    "section_title": "The right  to erasure  (also  known  as the “right  to be forgotten”)",
+    "parent_sections": [
+      "12",
+      "12.1"
+    ],
+    "level": 3,
+    "text": "(a) In certain circumstances, individuals have a right to request that \nPersonal Data held by us is  erased.  \n(b) If we have passed this data to any third parties, we have an \nobligation to also inform them that we have received this request, \nunless it is disproportionate to do  so. \n(c) This right applies if  we: \n(i) process Personal Data beyond the period when it is \nnecessary  to  do so for the purpose  for which  it was \noriginally  collected;  \n(ii) rely on consent  and the individual  withdraws  their consent;  \n(iii) rely on legitimate interests and the individual objects and \nthere is no overriding compelling ground which enables us \nto continue Processing the Personal Data;  or \n(iv) are Processing the Personal Data unlawfully (i.e., in \nbreach of the requirements of the UK  GDPR).\n#149287v3 - Internal Data Protection Policy - HelloDPO review -    090522",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "12.1.5",
+    "section_title": "The right to restrict  Processing",
+    "parent_sections": [
+      "12",
+      "12.1"
+    ],
+    "level": 3,
+    "text": "(a) In certain circumstances, individuals have the right to restrict the \nProcessing of their Personal  Data.  \n(b) If we have passed this data to any third parties, we have an \nobligation to also inform them that we have received this request, \nunless it is disproportionate to do  so. \n(c) This  right  applies,  if: \n(i) an individual disputes the accuracy of Personal  Data;  \n(ii) an individual has raised an objection to the Processing of \nPersonal  Data;  \n(iii) the Processing of Personal Data is unlawful, and the \nindividual opposes erasure and requests restriction \ninstead;   or \n(iv) the Personal Data is no longer required by us but the \nindividual requires the Personal Data to be retained to \nestablish, exercise or defend a legal  claim.",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "12.1.6",
+    "section_title": "The right to data  portability",
+    "parent_sections": [
+      "12",
+      "12.1"
+    ],
+    "level": 3,
+    "text": "(a) In certain circumstances, individuals have a right to obtain and \nreuse Personal Data that they have provided to us for their own \npurposes across different  services.  \n(b) This right only applies to Personal Data that the individual has \nprovided to us and when we are Processing the Personal Data \nbased  on consent or for the performance of a contract and we \nare carrying  out the Processing by automated  means.",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "12.1.7",
+    "section_title": "The right to  object",
+    "parent_sections": [
+      "12",
+      "12.1"
+    ],
+    "level": 3,
+    "text": "(a) In certain circumstances, individuals have the right to object to \nthe Processing of their Personal  Data.  \n(b) They have an absolute right to stop their data being used for \ndirect marketing.  \n(c) We must tell individuals about their right to  object,  separately  from \nother information on their rights. We must do this by, for example, \nincluding this information clearly in privacy notices and on direct \nmarketing  communications;  and",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "12.1.8",
+    "section_title": "Rights  in relation  to automated  decision  making  and profiling",
+    "parent_sections": [
+      "12",
+      "12.1"
+    ],
+    "level": 3,
+    "text": "(a) Individuals have a right not to be subject to a decision which is \nbased on automated Processing where the decision will produce \na  legal effect or a similarly significant effect on the individual for \nexample, a decision whether to enter into a contract wit h an\n#149287v3 - Internal Data Protection Policy - HelloDPO review -    090522     individual,  decisions\n#149287v3 - Internal Data Protection Policy - HelloDPO review -    090522     in relation to whether credit will be extended to an individual and \ndecisions to cut off a  supply.  \n(b) If we undertake automated decision -making including profiling,  we  \nmust:  \n(i) provide individuals with information about the   Processing;  \n(ii) introduce easy ways for them to request human \nintervention or challenge a decision;  and \n(iii) carry out regular checks to make sure that our systems \nare working as intended and are producing the right  \noutcomes.",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "12.2",
+    "section_title": "If you receive  a request  from  an individual  to exercise  any of the rights",
+    "parent_sections": [
+      "12"
+    ],
+    "level": 2,
+    "text": "detailed above, you must notify the Data Protection Team as soon as  \npossible.",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "12.3",
+    "section_title": "We must respond to all rights requests without undue delay and in any event",
+    "parent_sections": [
+      "12"
+    ],
+    "level": 2,
+    "text": "within one calendar month of receipt of the request . This period may be \nextended by a further two months, where necessary, taking into account the \ncomplexity of the request. All r equests to extend the one -month period  must  \nbe  approved  by  our Data  Protection  Team . \n \n \n13 Our obligations",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "13.1",
+    "section_title": "All individuals are responsible for helping ICAEW keep Personal Data up to",
+    "parent_sections": [
+      "13"
+    ],
+    "level": 2,
+    "text": "date. You should let the HR team know if the Personal Data you have provided \nto ICAEW changes, for example if you move to a new house or change details \nof the bank or building  society  account  to which  you are paid.",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "13.2",
+    "section_title": "You may have access to the Personal Data of other employees, suppliers and",
+    "parent_sections": [
+      "13"
+    ],
+    "level": 2,
+    "text": "members and other third parties of ICAEW in the course of your employment \nor engagement. If so, ICAEW expects you to help meet its data protection \nobligations to those individuals. For example, you should be aware that they \nmay also enjoy the rights set out in section 12  above.",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "13.3",
+    "section_title": "If you have access to Personal Data, you  must:",
+    "parent_sections": [
+      "13"
+    ],
+    "level": 2,
+    "text": "13.3.1  only access the Personal Data that you have authority to access, and \nonly for authorised  purposes;  \n13.3.2  only allow other individuals to access Personal Data if they have \nappropriate authorisation;  \n13.3.3  only allow individuals who are not authorised individuals to access \nPersonal Data  if you have  specific  authority  to do so from  your \nManaging  Director;\n#149287v3 - Internal Data Protection Policy - HelloDPO review -    090522     13.3.4  keep Personal Data secure (e.g., by complying with rules on access \nto premises,  computer  access,  password  protection  and secure  file \nstorage  and\n#149287v3 - Internal Data Protection Policy - HelloDPO review -    090522     destruction and other precautions set out in ICAEW’s Information \nSecurity Policy);  \n13.3.5  not remove Personal Data, or devices containing Personal Data (or \nwhich can be used to access it), from ICAEW’s premises unless \nappropriate security measures are in place (such as pseudonymisation, \nencryption or password protection) to secure the informati on and the \ndevice;  and \n13.3.6  not store Personal Data on local drives or on personal devices that are \nused   for  work  purposes  and comply  with ICAEW’s  Information  Security  \nPolicy.",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "13.4",
+    "section_title": "You should  contact  our DPO  if you are concerned  or suspect  that one of the",
+    "parent_sections": [
+      "13"
+    ],
+    "level": 2,
+    "text": "following has taken place (or is taking place or likely to take  place):",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "13.4.1",
+    "section_title": "Processing of Personal Data without  a  lawful  basis  for  its  Processing",
+    "parent_sections": [
+      "13",
+      "13.4"
+    ],
+    "level": 3,
+    "text": "or,  in the case of Special Categories  of  Personal  Data,  without  one  of  \nthe  conditions in section 7.1.2 being   met; \n13.4.2  any Data Breach as set out in section 16.1  below;  \n13.4.3  access to Personal Data without the proper  authorisation;",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "13.4.4",
+    "section_title": "Personal Data not kept or deleted  securely;",
+    "parent_sections": [
+      "13",
+      "13.4"
+    ],
+    "level": 3,
+    "text": "13.4.5  removal of Personal Data, or devices containing Personal Data (or \nwhich can be used to access it), from ICAEW’s premises without \nappropriate security measures being in place;  and \n13.4.6  any other  breach of this policy or  of  any of the data protection principles \nset   out  in section  5.1  above.  \n \n14 Information  security",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "14.1",
+    "section_title": "ICAEW will use appropriate technical and organisational measures in",
+    "parent_sections": [
+      "14"
+    ],
+    "level": 2,
+    "text": "accordance  with ICAEW’s Information Security Policy to keep Personal Data \nsecure, and in particular to protect against unauthorised or unlawful Processing \nand against accidental loss, des truction or damage. These may  include:  \n14.1.1  making sure that, where possible, Personal Data is pseudonymised or \nencrypted;  \n14.1.2  ensuring the ongoing confidentiality, integrity, availability and resilience \nof Processing  systems  and  services;  \n14.1.3  ensuring that, in the event of a physical or technical incident, availability \nand access to Personal Data can be restored in a timely manner;   and \n14.1.4  a process for regularly testing, assessing and evaluating the \neffectiveness of technical and organisational measures for ensuring the \nsecurity of the Processing.\n#149287v3 - Internal Data Protection Policy - HelloDPO review -    090522",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "14.2",
+    "section_title": "Where ICAEW uses external organisations to process Personal Data on its",
+    "parent_sections": [
+      "14"
+    ],
+    "level": 2,
+    "text": "behalf, additional security arrangements need to be implemented in contracts \nwith those organisations to safeguard the security of Personal Data. In \nparticular, contracts with external  organisations must provide  that:  \n14.2.1  the organisation may act only on the written instructions of   ICAEW;  \n14.2.2  those Processing the data are subject to a duty of  confidence;  \n14.2.3  appropriate measures are taken to ensure the security of   Processing;  \n14.2.4  sub-contractors are only engaged with the prior consent of ICAEW and \nunder a written  contract;  \n14.2.5  the organisation will assist ICAEW in providing subject access and \nallowing individuals  to exercise  their rights  in relation  to data protection;  \n14.2.6  the organisation will assist ICAEW in meeting its obligations in relation \nto the security of Processing, the notification of data breaches and data \nprotection impact  assessments;  \n14.2.7  the organisation will delete or return all Personal Data to ICAEW as  \nrequested at the end of the contract;  and \n14.2.8  the organisation will submit to audits and inspections, provide ICAEW \nwith whatever information it needs to ensure that they are both meeting \ntheir data protection obligations, and tell ICAEW immediately if it is \nasked to do something  infringing  data protection  law.",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "14.3",
+    "section_title": "Before any new agreement involving the Processing of Personal Data by an",
+    "parent_sections": [
+      "14"
+    ],
+    "level": 2,
+    "text": "external organisation is entered into, or an existing agreement is altered, the \nrelevant  individual must seek approval of its terms from the legal team, and \nyou must follow ICAEW’s  Third  Party  Contracts  and Agreements  Policy.  \n \n15 Storage and retention of Personal  Data",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "15.1",
+    "section_title": "Personal Data (and Special Categories of Personal Data) will be kept securely in",
+    "parent_sections": [
+      "15"
+    ],
+    "level": 2,
+    "text": "accordance with ICAEW’s Information Security  Policy.",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "15.2",
+    "section_title": "Personal Data (and Special Categories of Personal Data) should not be",
+    "parent_sections": [
+      "15"
+    ],
+    "level": 2,
+    "text": "retained for any longer than necessary. The length of time over which data \nshould be retained will depend upon the circumstances, including the reasons \nwhy the Personal Data was obtained.",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "15.3",
+    "section_title": "Individual’s must follow ICAEW’s Data Retention and Destruction Policy which",
+    "parent_sections": [
+      "15"
+    ],
+    "level": 2,
+    "text": "sets out the relevant retention period, or the criteria that should be used to \ndetermine the retention  period.",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "15.4",
+    "section_title": "Where  there  is any uncertainty,  individuals  should  consult  our Data  Protection",
+    "parent_sections": [
+      "15"
+    ],
+    "level": 2,
+    "text": "Team .\n#149287v3 - Internal Data Protection Policy - HelloDPO review -    090522",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "15.5",
+    "section_title": "Personal Data (and Special Categories of Personal Data) that is no longer",
+    "parent_sections": [
+      "15"
+    ],
+    "level": 2,
+    "text": "required will be deleted permanently from our information systems and any \nhard copies will be destroyed  securely.  \n \n16 Data  breaches",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "16.1",
+    "section_title": "A Data Breach may take many different forms, for    example:",
+    "parent_sections": [
+      "16"
+    ],
+    "level": 2,
+    "text": "16.1.1  loss or theft of data or equipment on which Personal Data is  stored;  \n16.1.2  unauthorised access to or use of Personal Data either by an employee \nor    third party;  \n16.1.3  loss of data resulting from an equipment or systems (including \nhardware and software)  failure;  \n16.1.4  human error, such as accidental deletion or alteration of  data;  \n16.1.5  unforeseen circumstances, such as a fire or  flood;  \n16.1.6  deliberate attacks on IT systems, such as hacking, viruses or phishing \nscams; and  \n16.1.7  ‘blagging’  offences,  where  information  is obtained  by deceiving   \nthe organisation  which  holds  it.",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "16.2",
+    "section_title": "ICAEW  will:",
+    "parent_sections": [
+      "16"
+    ],
+    "level": 2,
+    "text": "16.2.1  make the required report of a Data Breach to the Information \nCommissioner’s Office (ICO) without undue delay and, where possible \nwithin 72 hours of becoming aware of it, if it is likely to result in a risk to the \nrights and freedoms    of individuals;  and \n16.2.2  notify the affected individuals if a Data Breach is likely to result in a high \nrisk    to their rights and freedoms and notification is required by    law.",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "16.3",
+    "section_title": "If you suspect any Data Breaches, no matter how small you must report",
+    "parent_sections": [
+      "16"
+    ],
+    "level": 2,
+    "text": "these immediately to our Data Protection Team and you must follow our \nData and Cyber  Incident  Management  Policy.  \n \n17 Training  \nICAEW will ensure that individuals are adequately trained regarding their  data  \nprotection responsibilities. Individuals whose roles require regular access to \nPersonal Data, or who are responsible for implementing this policy or responding \nto  subject  ac cess requests under this policy, will receive additional training to  \nhelp  them  understand their duties  and  how to comply with  them.\n#149287v3 - Internal Data Protection Policy - HelloDPO review -    090522     18 International  transfers",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "18.1",
+    "section_title": "ICAEW may transfer personal information outside the United Kingdom",
+    "parent_sections": [
+      "18"
+    ],
+    "level": 2,
+    "text": "provided that the country, territory or organisation is designated as having an \nadequate level of protection or that the organisation receiving the information \nhas provided adequate safegua rds by way of binding corporate rules or \nstandard data protection  clauses.  \n \n19 Consequences of failing to  comply",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "19.1",
+    "section_title": "ICAEW takes compliance with this policy very seriously. Failure to comply with the",
+    "parent_sections": [
+      "19"
+    ],
+    "level": 2,
+    "text": "policy:  \n19.1.1  puts at risk the individuals whose Personal Data is being processed;  \nand \n19.1.2  carries the risk of significant civil and criminal sanctions for the individual \nand ICAEW  and \n19.1.3  may,  in some  circumstances,  amount  to a criminal  offence  by the \nindividual.",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "19.2",
+    "section_title": "Because of the importance of this policy, an individual’s failure to comply with any",
+    "parent_sections": [
+      "19"
+    ],
+    "level": 2,
+    "text": "requirement of it may lead to disciplinary action. If a  non -employee  breaches  this  \npolicy, they may have their contract terminated with immediate    effect.",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "19.3",
+    "section_title": "If you have any questions or concerns about anything in this policy, do not",
+    "parent_sections": [
+      "19"
+    ],
+    "level": 2,
+    "text": "hesitate to contact our Data Protection  Team . \n \n20 Associated  Policies",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "20.1",
+    "section_title": "The following ICAEW policies are associated with this policy.",
+    "parent_sections": [
+      "20"
+    ],
+    "level": 2,
+    "text": "",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "20.1.1",
+    "section_title": "Information Security  Policy",
+    "parent_sections": [
+      "20",
+      "20.1"
+    ],
+    "level": 3,
+    "text": "",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "20.1.2",
+    "section_title": "Data Protection Impact Assessment  Policy",
+    "parent_sections": [
+      "20",
+      "20.1"
+    ],
+    "level": 3,
+    "text": "",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "20.1.3",
+    "section_title": "Electronic Communications and Monitoring Policy",
+    "parent_sections": [
+      "20",
+      "20.1"
+    ],
+    "level": 3,
+    "text": "",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "20.1.4",
+    "section_title": "Data Retention and Destruction  Policy",
+    "parent_sections": [
+      "20",
+      "20.1"
+    ],
+    "level": 3,
+    "text": "",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "20.1.5",
+    "section_title": "Appropriate Policy  Document",
+    "parent_sections": [
+      "20",
+      "20.1"
+    ],
+    "level": 3,
+    "text": "",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "20.1.6",
+    "section_title": "PCI DSS  Policy",
+    "parent_sections": [
+      "20",
+      "20.1"
+    ],
+    "level": 3,
+    "text": "",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "20.1.7",
+    "section_title": "Bring You Own Device  Policy",
+    "parent_sections": [
+      "20",
+      "20.1"
+    ],
+    "level": 3,
+    "text": "",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "20.1.8",
+    "section_title": "Data and Cyber Incident Management  Policy",
+    "parent_sections": [
+      "20",
+      "20.1"
+    ],
+    "level": 3,
+    "text": "These policies can be found on the Intranet at ICAEW Policies\n#149287v3 - Internal Data Protection Policy - HelloDPO review -    090522      \n \nDocument control  \nDate: August 2024  \nExpiry: August 2025 \nConfidentiality: ICAEW use only \nVersion:",
+    "doc_type": "policy"
+  },
+  {
+    "section_id": "1.7",
+    "section_title": "Owner: Data Protection Manager",
+    "parent_sections": [
+      "1"
+    ],
+    "level": 2,
+    "text": "Drafted by: HelloDPO Ltd and Helen Carter, Data Protection Team  \nApproved by: Data Protection Oversight  Group  \nNext review date: August 2025  \nLinked documents: None.",
+    "doc_type": "policy"
+  }
+]

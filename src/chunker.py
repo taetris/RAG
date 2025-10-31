@@ -48,51 +48,119 @@ def extract_text_from_pdf(file_path: str) -> str:
 # -------------------------------
 # Hierarchical parser
 # -------------------------------
+# class HierarchicalChunker:
+#     def __init__(self, doc_type: str):
+#         self.doc_type = doc_type
+#         # Patterns differ slightly for policy vs regulation
+#         self.section_pattern = (
+#             r"(?P<id>\d+(?:\.\d+)+)\s+(?P<title>[A-Z].*?)\n"
+#             if doc_type == "policy"
+#             else r"(?P<id>Article\s+\d+)\s*(?P<title>[A-Z].*?)\n"
+#         )
+
+#     def chunk(self, text: str) -> List[LegalChunk]:
+#         """Chunk text hierarchically with context."""
+#         matches = list(re.finditer(self.section_pattern, text))
+#         chunks = []
+
+#         for i, match in enumerate(matches):
+#             start = match.end()
+#             end = matches[i + 1].start() if i + 1 < len(matches) else len(text)
+#             chunk_text = text[start:end].strip()
+
+#             section_id = match.group("id").strip()
+#             section_title = match.group("title").strip() + " " + text[start:end].strip()
+#             parent_sections = self._get_parent_sections(section_id)
+#             level = section_id.count(".") + 1 if "." in section_id else 1
+
+#             chunks.append(
+#                 LegalChunk(
+#                     section_id=section_id,
+#                     section_title=section_title,
+#                     parent_sections=parent_sections,
+#                     level=level,
+#                     text=chunk_text,
+#                     doc_type=self.doc_type,
+#                 )
+#             )
+
+#         return chunks
+
+#     def _get_parent_sections(self, section_id: str) -> List[str]:
+#         """Return list of parent section IDs (e.g., for 2.1.3 → ['2', '2.1'])."""
+#         if self.doc_type == "regulation":
+#             return []
+#         parts = section_id.split(".")
+#         return [".".join(parts[:i]) for i in range(1, len(parts))]
+
 class HierarchicalChunker:
-    def __init__(self, doc_type: str):
+    def __init__(self, doc_type: str, chunk_size: int = 1000, overlap: int = 200):
         self.doc_type = doc_type
-        # Patterns differ slightly for policy vs regulation
+        self.chunk_size = chunk_size
+        self.overlap = overlap
+
+        # Match numbered sections like "1.1 Policy purpose" or "Article 4 Scope"
         self.section_pattern = (
-            r"(?P<id>\d+(?:\.\d+)+)\s+(?P<title>[A-Z].*?)\n"
+            r"(?P<id>\d+(?:\.\d+)+)\s+(?P<title>[A-Z][^\n]*)"
             if doc_type == "policy"
-            else r"(?P<id>Article\s+\d+)\s*(?P<title>[A-Z].*?)\n"
+            else r"(?P<id>Article\s+\d+)\s*(?P<title>[A-Z][^\n]*)"
         )
 
     def chunk(self, text: str) -> List[LegalChunk]:
-        """Chunk text hierarchically with context."""
+        """Chunk text hierarchically with context and sub-chunk overlap."""
         matches = list(re.finditer(self.section_pattern, text))
         chunks = []
 
         for i, match in enumerate(matches):
             start = match.end()
             end = matches[i + 1].start() if i + 1 < len(matches) else len(text)
-            chunk_text = text[start:end].strip()
+            section_text = text[start:end].strip()
 
             section_id = match.group("id").strip()
             section_title = match.group("title").strip()
             parent_sections = self._get_parent_sections(section_id)
             level = section_id.count(".") + 1 if "." in section_id else 1
 
-            chunks.append(
-                LegalChunk(
-                    section_id=section_id,
-                    section_title=section_title,
-                    parent_sections=parent_sections,
-                    level=level,
-                    text=chunk_text,
-                    doc_type=self.doc_type,
+            # Re-chunk long sections by overlap
+            subchunks = self._split_with_overlap(section_text)
+
+            for j, sub in enumerate(subchunks):
+                chunks.append(
+                    LegalChunk(
+                        section_id=f"{section_id}.{j+1}" if len(subchunks) > 1 else section_id,
+                        section_title=section_title,
+                        parent_sections=parent_sections,
+                        level=level,
+                        text=sub.strip(),
+                        doc_type=self.doc_type,
+                    )
                 )
-            )
 
         return chunks
 
+    def _split_with_overlap(self, text: str) -> List[str]:
+        """Split long text into overlapping chunks by word count."""
+        words = text.split()
+        if len(words) <= self.chunk_size:
+            return [text]
+
+        subchunks = []
+        start = 0
+        while start < len(words):
+            end = min(start + self.chunk_size, len(words))
+            subchunk = " ".join(words[start:end])
+            subchunks.append(subchunk)
+            if end == len(words):
+                break
+            start += self.chunk_size - self.overlap  # move window with overlap
+        return subchunks
+
     def _get_parent_sections(self, section_id: str) -> List[str]:
-        """Return list of parent section IDs (e.g., for 2.1.3 → ['2', '2.1'])."""
+        """Return list of parent section IDs (e.g., 2.1.3 → ['2', '2.1'])."""
         if self.doc_type == "regulation":
             return []
         parts = section_id.split(".")
         return [".".join(parts[:i]) for i in range(1, len(parts))]
-
 
 # -------------------------------
 # Convenience function
